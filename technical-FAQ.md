@@ -50,7 +50,7 @@ If all of the above fails, ask a question!
 
 To ensure you get a timely answer that resolves your problem, ensure you follow these steps:
 
-* **Ask at a practical session**. Ask a demonstrator. (There should be plenty to go round, however if they're busy, just stick your hand in the air and wait for somebody to get to you.) Or, if after week 5,  you can attend the **drop-in session** and ask your question directly.
+* **Ask at a practical or a drop-in session**. You can ask a demonstrator in a practical session (there should be plenty to go round, however if they're busy, just stick your hand in the air and wait for somebody to get to you), or, if after week 5,  you can attend one of the weekly drop-in sessions and ask your question directly.
 
 * **Post a question in the appropriate forum on Blackboard**. 
   However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able 
