@@ -34,7 +34,6 @@ Materials for the module can all be found in this repository, which consists of 
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | | |  | |
 |4     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li></ul> |  | |  | |
 |5     | <ul><li>Using Code Coverage as a Tool for Testing</li><li>Debugging</li><li>Refactoring</li></ul> | | | |
-
 |6     | *No lecture* | Drop-In Session | | | |
 |7     | *No lecture* | Drop-In Session | | | |
 |Easter|
