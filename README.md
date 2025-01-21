@@ -11,7 +11,7 @@ Jump to:
 
   |<img src="./misc/phil.jpg" width="150"/> | <img src="./misc/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
-  | [Phil McMinn](https://philmcminn.com) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
+  | [Phil McMinn](https://philmcminn.com) <br /> Lectures & Practical Sessions | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
 ## 2. Getting Started
 
@@ -44,19 +44,26 @@ Materials for the module can all be found in this repository, which consists of 
 
 ### Lectures
 
-Lectures will be held on **Tuesday mornings 9am-12noon (week 1) / 10am-12 noon (weeks 2-6) in St George's Church**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes.
+Lectures will be held on **Tuesday 9-11am and Thursdays 3-5pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans), lecture theatre 1**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 5 for the team that performs best overall in the quizzes.
 
-### Practical Sessions (Labs)
+### Practical Sessions
 
-Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 10** (but excluding week 7). The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
+Practical sessions will be held on **Thursdays 5-6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 5**. The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
+
+**TODO - Phil to complete**
 
 Where you go and where you sit depends on which team you're in:
-
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
 * **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
 
+### Drop-In Sessions
+
+From week 6 onwards, until week **TODO Phil to complete** the practical session will be replaced by a drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, and we'll endeavour to help.
+
 ### Supervisor Meetings
+
 **TODO - Donghwan to check**
+
 Each team will be allocated a supervisor (a member of the department's teaching staff). Each team will meet with their supervisor once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You only need to attend a 15-minute meeting in this two-hour block. The exact time of your team meetings and the seating plan is available [here](misc/CR5-seating-plan-supervisor-meeting.pdf).
 
 There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo meetings** are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for Iterations 1 and 2. For the demo, your team will need its own device to showcase your work – or, you can use the laptop loan facility.
