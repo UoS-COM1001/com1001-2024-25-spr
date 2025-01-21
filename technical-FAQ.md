@@ -54,7 +54,7 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
 
 * **Post a question in the appropriate forum on Blackboard**. 
   
-  However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
+  However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
   
   If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
 
