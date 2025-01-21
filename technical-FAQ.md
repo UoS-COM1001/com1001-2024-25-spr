@@ -53,12 +53,11 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
 * **Ask at a practical session**. Ask a demonstrator. (There should be plenty to go round, however if they're busy, just stick your hand in the air and wait for somebody to get to you.) Or, if after week 5,  you can attend the **drop-in session** and ask your question directly.
 
 * **Post a question in the appropriate forum on Blackboard**. 
-  
-  However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
-  
-  If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
+  However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able 
+  to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
 
-* **Please don't email staff about technical issues directly.** Although we make our email addresses available, they're only to be used as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
+  If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a 
+  detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
 
 Naturally, when asking a question, help us to help you by including as much relevant information as possible. Screen shots are fine, but don't just post these without any context. If you don't provide all the information needed, we won't be able to resolve the issue.
 
