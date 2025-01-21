@@ -1,11 +1,10 @@
 # Technical FAQ
 
-This FAQ deals with technical (Codio, Ruby, Sinatra etc.) aspects of COM1001. If you have questions about the team proejct, then consult the [Project FAQ](project-FAQ.md) instead.
+This FAQ deals with technical (Codio, Ruby, Sinatra etc.) aspects of COM1001. If you have questions about the team project, then consult the [Project FAQ](project-FAQ.md) instead.
 
-This FAQ is organised into the following sections. Some questions fit more than one section, so ensure you've properly checked the whole FAQ in case you don't see it.
+This FAQ is organised into the following sections. Some questions fit more than one section, so make sure you've properly checked the whole FAQ in case you don't see it.
 
-1. [How to Ask
-   Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
+1. [When You Have a Question](#1-when-you-have-a-question) 
 2. [Problems Running Code](#2-problems-running-code) 
 3. [Problems with Git](#3-problems-with-git) 
 4. [Using Codio](#4-using-codio)
@@ -13,15 +12,6 @@ This FAQ is organised into the following sections. Some questions fit more than 
 If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first. 
 
 If you think an issue needs to be added to this FAQ, [contact Phil McMinn](mailto:p.mcminn@sheffield.ac.uk).
-
-<!--
-Note that this FAQ covers technical issues only.
-**If you're experiencing a team issue, or
-have a question about the team project**, check out the check the [Assignment
-FAQ](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5820338_1&course_id=_96428_1&mode=reset)
-on Blackboard. If this does not answer your question, you should contact your
-supervisor, or wait until your next meeting with them.
--->
 
 ## 1. When You Have a Question
 
