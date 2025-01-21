@@ -23,13 +23,13 @@ on Blackboard. If this does not answer your question, you should contact your
 supervisor, or wait until your next meeting with them.
 -->
 
-## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
+## 1. When You Have a Question
 
-There are no stupid questions, as the saying goes, but there are definitely *lazy* ones. Sometimes the answer to a question you may have has already been answered in lectures and can easily be found in the slides. But as a general rule, before asking a question, try to find the answer yourself. Finding your own answers is an important skill that will be invaluable in the rest of your degree as well as your future career. This is not just about honing your skills in quickly finding the information you need, but also how to resolve problems and debug issues with code yourself. 
+As a general rule, before asking a question, try to find the answer yourself. Here are some tips:
 
 ### Finding Your Own Answers: Some Tips 
 
-1. **Check the lecture slides**. Seems obvious. But you'd be surprised how many questions we get that are answered by a lecture slide that covered what you wanted to know. There may be a slide or an example that you missed that already explains something you wanted to know about or demonstrates some code similar to what you want to do. Look there first!
+1. **Check the lecture slides**. Sometimes the answer is already there and you missed it, so double-check whether the information you need is there. 
 
 2. **Check this FAQ**. To save time reading through the entire FAQ, use the "Find" feature in your browser to search for certain words appearing on the page to do with your query (e.g. "Git", "Capybara", etc.) The "Find" feature is normally a menu item in the "Edit" menu.
 
@@ -44,22 +44,15 @@ There are no stupid questions, as the saying goes, but there are definitely *laz
 
 5. **Use Google**. If you're unsure how to go about googling technical issues, or want to be more effective at using Google to find answers to programming questions, watch this video – "[Art of Googling as a Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's a bit Python-centric, but the principles apply to any programming language on any platform – and pretty much anything technical.
 
-**If all of the above fails, you can ask a question.** See the next section on how to go about doing this.
+If all of the above fails, ask a question!
 
 ### How Do I Go About Asking Questions?
 
 To ensure you get a timely answer that resolves your problem, ensure you follow these steps:
 
-* **For specific technical questions about your team project**, ask your demonstrator.
+* **Ask at a practical session**. Ask a demonstrator. (There should be plenty to go round, however if they're busy, just stick your hand in the air and wait for somebody to get to you.) Or, if after week 5,  you can attend the **drop-in session** and ask your question directly.
 
-  <!--
-  You can ask in the lab, or via Slack if the issue arises between
-  labs and cannot wait until the next one. Bear in mind that your demonstrators
-  are students too. They have assignments and deadlines of their own, so they
-  may not respond immediately.
-  -->
-
-* **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Coding Questions Discussion Board]([https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview](https://vle.shef.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_107947_1&nav=discussion_board_entry&conf_id=_346815_1&forum_id=_343693_1)) on Blackboard. 
+* **Post a question in the appropriate forum on Blackboard**. 
   
   However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
   
