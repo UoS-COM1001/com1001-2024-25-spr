@@ -34,13 +34,13 @@ Materials for the module can all be found in this repository, which consists of 
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | | |  | |
 |4     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li></ul> |  | |  | |
 |5     | <ul><li>Using Code Coverage as a Tool for Testing</li><li>Debugging</li><li>Refactoring</li></ul> | | | |
-|6     | *No lecture* | Drop-In Session | | | |
-|7     | *No lecture* | Drop-In Session | | | |
-|8     | *No lecture* | Drop-In Session | | | |
+|6     | *No lectures* | Drop-In Session | | | |
+|7     | *No lectures* | Drop-In Session | | | |
+|8     | *No lectures* | Drop-In Session | | | |
 |Easter|
-|9     | *No lecture* | Drop-In Session | | | |
-|10    | *No lecture* | Drop-In Session | | | |
-|11    | *No lecture* | Drop-In Session | | |  |
+|9     | *No lectures* | Drop-In Session | | | |
+|10    | *No lectures* | Drop-In Session | | | |
+|11    | *No lectures* | Drop-In Session | | |  |
 
 ### Lectures
 
@@ -56,7 +56,7 @@ Where you go and where you sit depends on which team you're in:
 * **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
 
 ### Supervisor Meetings
-
+**TODO - Donghwan to check**
 Each team will be allocated a supervisor (a member of the department's teaching staff). Each team will meet with their supervisor once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You only need to attend a 15-minute meeting in this two-hour block. The exact time of your team meetings and the seating plan is available [here](misc/CR5-seating-plan-supervisor-meeting.pdf).
 
 There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo meetings** are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for Iterations 1 and 2. For the demo, your team will need its own device to showcase your work – or, you can use the laptop loan facility.
