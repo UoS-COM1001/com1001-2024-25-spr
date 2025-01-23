@@ -108,16 +108,10 @@ If you are experiencing problems with your team's repository let Phil McMinn or 
 
 ### Using VSCode
 
-The standard text editor in Codio is rather basic, but you can used Visual Studio Code [(VSCode)](https://code.visualstudio.com) instead. VSCode is a popular text editor and IDE for many languages, and may be used in a web browser on Codio itself. Assuming you have followed in the previous instructions in the first lecture and have everything setup in Codio, then you will have a Codio box already up and running. In Codio, go to "Tools", then "Install Software". Scroll down the list and select "VSCode". VSCode will be now available at a special URL in your web browser for use with your Codio files. The URL you need to access it depends on your Codio box name. This is different from your project's name. Your Codio box name is the subdomain of your Codio Box domain, which Codio tells you in the preamble of every Terminal session that you start. For example, my Terminal session prints out the following:
+The standard text editor in Codio is rather basic, but you can used Visual Studio Code [(VSCode)](https://code.visualstudio.com) instead. VSCode is a popular text editor and IDE for many languages, and may be used in a web browser on Codio itself. Assuming you have followed in the previous instructions in the first lecture and have everything setup in Codio, then you will have a Codio box already up and running. In Codio, go to "Tools", then "Install Software". Scroll down the list and select "VSCode". VSCode will be now available at a special URL in your web browser for use with your Codio files. The URL you need to access it depends on your Codio box name. This is different from your project's name. Your Codio box name is the subdomain of your Codio Box domain, which Codio tells you in the prompt of every Terminal session that you start. For example, my Terminal prompt is the following:
 
-```
- *
- * Welcome to the Codio Terminal!
- *
- * https://docs.codio.com/project/ide/boxes/#overview
- *
- * Your Codio Box domain is: everton-fan.codio.io
- *
+```console
+codio@everton-fan:~/workspace$
 ```
 
 This means my box name is ``everton-fan``. This means the URL I would be accessing VSCode from, if I installed it, would be https://everton-fan-4000.codio.io. Note that this URL is essentially the same as the Base URL of your web applications launched from Codio (as discussed in lectures), but using port 4000.
