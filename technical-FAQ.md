@@ -4,12 +4,12 @@ This FAQ deals with technical (Codio, Ruby, Sinatra etc.) aspects of COM1001. If
 
 This FAQ is organised into the following sections. Some questions fit more than one section, so make sure you've properly checked the whole FAQ in case you don't see it.
 
-1. [When You Have a Question](#1-when-you-have-a-question) 
-2. [Problems Running Code](#2-problems-running-code) 
-3. [Problems with Git](#3-problems-with-git) 
+1. [When You Have a Question](#1-when-you-have-a-question)
+2. [Problems Running Code](#2-problems-running-code)
+3. [Problems with Git](#3-problems-with-git)
 4. [Using Codio](#4-using-codio)
 
-If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first. 
+If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first.
 
 If you think an issue needs to be added to this FAQ, [contact Phil McMinn](mailto:p.mcminn@sheffield.ac.uk).
 
@@ -17,9 +17,9 @@ If you think an issue needs to be added to this FAQ, [contact Phil McMinn](mailt
 
 As a general rule, before asking a question, try to find the answer yourself. Here are some tips:
 
-### Finding Your Own Answers: Some Tips 
+### Finding Your Own Answers: Some Tips
 
-1. **Check the lecture slides**. Sometimes the answer is already there and you missed it, so double-check whether the information you need is there. 
+1. **Check the lecture slides**. Sometimes the answer is already there and you missed it, so double-check whether the information you need is there.
 
 2. **Check this FAQ**. To save time reading through the entire FAQ, use the "Find" feature in your browser to search for certain words appearing on the page to do with your query (e.g. "Git", "Capybara", etc.) The "Find" feature is normally a menu item in the "Edit" menu.
 
@@ -28,7 +28,7 @@ As a general rule, before asking a question, try to find the answer yourself. He
 4. **Check the docs**. Your question may be answered by the documentation for
    [Sinatra](http://sinatrarb.com/documentation.html),
    [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL docs](https://www.sqlite.org/lang.html)),
-   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots of handy examples), 
+   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots of handy examples),
    [RSpec](https://relishapp.com/rspec), and
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also the handy [cheat sheet](https://devhints.io/capybara)).
 
@@ -40,16 +40,16 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
 
 * **Ask at a practical or a drop-in session**. You can ask a demonstrator in a practical session (there should be plenty to go round, however if they're busy, just stick your hand in the air and wait for somebody to get to you), or, if after week 5,  you can attend one of the weekly drop-in sessions and ask your question directly.
 
-* **Post a question in the appropriate forum on Blackboard**. 
-  However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able 
+* **Post a question in the appropriate forum on Blackboard**.
+  However, please *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able
   to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
 
-  If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a 
-  detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
+  If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a
+  detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves.
 
 Naturally, when asking a question, help us to help you by including as much relevant information as possible. Screen shots are fine, but don't just post these without any context. If you don't provide all the information needed, we won't be able to resolve the issue.
 
-## 2. Problems Running Code 
+## 2. Problems Running Code
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
@@ -71,21 +71,21 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the 
 
 ### When I run my web application or an example, Codio displays a "401 Authorization Required" message instead of the proper web page.
 
-This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. 
+This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use.
 
-First, open a tab and check you are indeed logged in. If you are, try clearing out your cookies in your browser settings, close and re-open your browser, log into Codio and try again. 
+First, open a tab and check you are indeed logged in. If you are, try clearing out your cookies in your browser settings, close and re-open your browser, log into Codio and try again.
 
 Sometimes Codio's cookies, which track whether a user is logged in or not, are blocked by a browser's default privacy mechanisms. Here are my experiences (and remedies) with certain browsers. Note that these are for Mac – your experience may differ!
 
-* **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add `codio.com` and `codio.io` separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio. 
+* **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add `codio.com` and `codio.io` separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio.
 * **Chrome** – works fine.
-* **Edge** – works fine. 
-* **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add `codio.com` and `codio.io`. Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
+* **Edge** – works fine.
+* **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add `codio.com` and `codio.io`. Click "Save Changes". Now close and re-open your browser, and log back into Codio.
 * **Safari** – works fine.
 
-Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites `codio.com` and `codio.io`. 
+Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites `codio.com` and `codio.io`.
 
-If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the issue – I've never found this issue to be a machine-specific problem. 
+If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the issue – I've never found this issue to be a machine-specific problem.
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
@@ -95,7 +95,7 @@ This is likely because you're not using the `sinatra` command to run your code a
 
 You have to stop (go to the terminal window and press "control" and "c") and then restart the web server (triggered by the `sinatra` command you used to start your application) each time you change any Ruby code in it (an exception is `.erb` files, changes for which can be seen without stopping and restarting).
 
-This is a tedious thing to have to keep doing during development! So I recommend using `rerun`, as demonstrated in lectures. 
+This is a tedious thing to have to keep doing during development! So I recommend using `rerun`, as demonstrated in lectures.
 
 To do this prefix the `sinatra` command with `rerun`, for example as follows:
 
@@ -105,10 +105,10 @@ rerun sinatra hello_world
 
 The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
 
-Note that you don't need to restart the web server if you only made changes to view files. 
+Note that you don't need to restart the web server if you only made changes to view files.
 
 
-### I can't see the changes I made to my CSS / my CSS is not updating. 
+### I can't see the changes I made to my CSS / my CSS is not updating.
 
 Ensure that your browser is not caching your CSS files (i.e., using a stored, out of date copy, rather than a fresh version from your web application).
 
@@ -122,7 +122,7 @@ If you issue a `gem list` command at the terminal, you will be able to see a lis
 
 You can also use the `reset_gems` command to reset the gems installed on your box.
 
-Make sure that your project has all the gems it needs by keeping your `Gemfile` up to date. This is the key to avoiding these kinds of problems in the first place. 
+Make sure that your project has all the gems it needs by keeping your `Gemfile` up to date. This is the key to avoiding these kinds of problems in the first place.
 
 ### I'm getting an error message `cannot load such file -- sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
 
@@ -130,9 +130,9 @@ You need the `sqlite3` gem installed as well. Make sure both the `sequel` and th
 
 ### Can we use further gems for the project?
 
-Of course, you can add/use additional gems above those mentioned in lectures. 
+Of course, you can add/use additional gems above those mentioned in lectures.
 
-### When testing, my application seems to behave differently compared to when it's being used for real. 
+### When testing, my application seems to behave differently compared to when it's being used for real.
 
 This is often to do with differences between the "test" database and the "development" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
 
@@ -158,13 +158,13 @@ Other possible reasons:
 
 Codio provides a standardised environment to students that removes many issues related to incompatibilities between different operating systems and setups.
 
-This is to your benefit – firstly, you won't have to debug these kinds of issues across the various machine setups your team members may have, and secondly, because Codio makes it easy for *us to help you* if you encounter problems with your code. 
+This is to your benefit – firstly, you won't have to debug these kinds of issues across the various machine setups your team members may have, and secondly, because Codio makes it easy for *us to help you* if you encounter problems with your code.
 
-It's not impossible though to develop everything on your own machine. However, this means you installing Ruby and getting everything working yourself. We are unable to provide support for students' individual machines, since fixing individual machine setups is very time consuming and our priority is helping with programming questions and issues.  
+It's not impossible though to develop everything on your own machine. However, this means you installing Ruby and getting everything working yourself. We are unable to provide support for students' individual machines, since fixing individual machine setups is very time consuming and our priority is helping with programming questions and issues.
 
-Furthermore, since the team project will be marked using Codio, everything needs to work on Codio, because the markers will not be debugging your code to get it to run. This means that if you use your own machine, you will need to get the same versions of Ruby, SQLite, and all the gems that you're using, ensuring all behaviours are identical across different machines. 
+Furthermore, since the team project will be marked using Codio, everything needs to work on Codio, because the markers will not be debugging your code to get it to run. This means that if you use your own machine, you will need to get the same versions of Ruby, SQLite, and all the gems that you're using, ensuring all behaviours are identical across different machines.
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
-Yes! See the [final section in the Getting Started instructions](getting-started/README.md#using-vscode).
+Yes! See the [final section in the Getting Started instructions](getting-started.md#using-vscode).
 
