@@ -37,7 +37,7 @@ We're now going to create a quick and simple Sinatra application.
 
 First open a new terminal (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar). Create a new directory called `hello_world` using the `mkdir` command, and then change the current directory the terminal is in to it, using the `cd` command.
 
-```bash
+```sh
 mkdir hello_world
 cd hello_world
 ```
