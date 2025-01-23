@@ -33,6 +33,28 @@ A few seconds may elapse, but then you'll see a screen saying "Loading Project..
 
 ## 2. Hello, World!
 
+We're now going to create a quick and simple Sinatra application.
+
+First open a new terminal (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar). All applications can initially be created using the `create_app` command. So type:
+
+```console
+create_app hello_world
+```
+
+You should see a folder called `hello_world` in the file tree in the left sidebar of the Codio interface. Click on the arrow to the left of it to reveal the files within it, and you should see a series of sub-directories, one of which is called `controllers`. Right-click on controllers and select "New File...". In the dialog box that appears, enter `hello_world.rb` as the filename. In the file editor that now opens, enter the following code:
+
+```ruby
+get "/hello-world" do
+  "Hello, World!"
+end
+```
+
+
+
+
+
+
+
 To run an example you'll need to change to the directory where it exists as a Ruby file. You'll need to ensure the appropriate gems are installed. Each directory contains a `Gemfile` so it is easy for you to ensure this using [Bundler](https://bundler.io). Bundler is already installed on Codio, so you just need to issue a `bundle install` command in the terminal in the appropriate directory.
 
 To run an example, you will need to change to the directory of the example and then use the `sinatra` command, followed by the filename.
@@ -68,7 +90,7 @@ Not all `.rb` files in a directory can be run, since they are a component part o
 
 ## 3. Cloning the Examples Repository on Codio
 
-Open a terminal in your project (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar), and enter the following command:
+Open a terminal and enter the following command:
 
 ```console
 git clone https://github.com/UoS-COM1001/com1001-examples.git
@@ -85,7 +107,7 @@ Your team's repository may be found on GitLab. To clone it, make sure you're som
 To clone your team's repository, you'll need to run the command:
 
 ```console
-git clone git@git.shefcompsci.org.uk:com1001-2023-24/teamXX/project.git
+git clone git@git.shefcompsci.org.uk:com1001-2024-25/teamXX/project.git
 ```
 
 replacing `XX` in the command with your two-digit team number (if you're in team 1-9, you'll need to enter a leading zero, i.e., 01, 02 etc.) Again, type "yes" to any authenticity questions.
