@@ -6,7 +6,7 @@
 
 1. [Setting up Codio](#1-setting-up-codio)
 2. [Hello, World!](#2-hello-world)
-3. [Cloning the Examples Repository on Codio](#2-cloning-the-examples-repository-on-codio)
+3. [Cloning the Examples Repository on Codio](#3-cloning-the-examples-repository-on-codio)
 4. [Cloning your Team's Repository](#4-cloning-your-teams-repository)
 5. [Advanced Codio](#5-advanced-codio)
 
@@ -37,7 +37,7 @@ We're now going to create a quick and simple Sinatra application.
 
 First open a new terminal (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar). Create a new directory called `hello_world` using the `mkdir` command, and then change the current directory the terminal is in to it, using the `cd` command.
 
-```console
+```bash
 mkdir hello_world
 cd hello_world
 ```
