@@ -49,6 +49,23 @@ get "/hello-world" do
 end
 ```
 
+You can run this application in two ways:
+
+***Method 1:*** Find `app.rb` at the bottom of the file tree in the `hello_world` directory and click on it, opening it in a text editor. Then click "Run" in the top menu bar (to the right of "Help").
+
+***Method 2 (Preferred):*** Go back to the terminal tab where you typed `create_app ...`. Change to the application directory by typing
+
+```console
+cd hello_world
+```
+
+Then start the application with:
+
+```console
+sinatra
+```
+
+In either case, Sinatra will start a web server that is serving your application.
 
 
 
