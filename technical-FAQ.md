@@ -53,7 +53,7 @@ Naturally, when asking a question, help us to help you by including as much rele
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
-It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started.md).
+It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Setting Up Codio Instructions](./setting-up-codio.md).
 
 Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
 
@@ -166,5 +166,5 @@ Furthermore, since the team project will be marked using Codio, everything needs
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
-Yes! See the [final section in the Getting Started instructions](getting-started.md#using-vscode).
+Yes! See the [final section in the Getting Started instructions](./setting-up-codio.md#5-using-vscode).
 
