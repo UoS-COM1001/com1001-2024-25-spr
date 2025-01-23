@@ -53,7 +53,7 @@ Naturally, when asking a question, help us to help you by including as much rele
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
-It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started/README.md).
+It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started.md).
 
 Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
 
@@ -128,21 +128,9 @@ Make sure that your project has all the gems it needs by keeping your `Gemfile` 
 
 You need the `sqlite3` gem installed as well. Make sure both the `sequel` and the `sqlite3` gems are part of your project's `Gemfile`.
 
-### What are the gems we will need for the team project?
+### Can we use further gems for the project?
 
-Depending on how far through the lectures we are, we may not have encountered all of these, so don't worry about the ones you don't recognise (yet):
-
-* **Core gems** include `sinatra`, `puma` (the web server), `rerun` (which gives you the ability to restart the webserver when you change your code, so that you do not have to do it manually), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
-
-* For the **database**, you'll need at least `sequel` and `sqlite3`. Don't forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
-
-* For **encrypting user data** (i.e., to preserve data confidentiality), you'll need `openssl`.
-
-* For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
-
-* For **testing**, you'll need at least `capybara` (for acceptance tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
-
-Note that some of these gems may already be installed on a fresh Codio box. In general, it's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
+Of course, you can add/use additional gems above those mentioned in lectures. 
 
 ### When testing, my application seems to behave differently compared to when it's being used for real. 
 
