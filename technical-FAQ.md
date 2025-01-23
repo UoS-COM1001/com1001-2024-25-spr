@@ -32,9 +32,7 @@ As a general rule, before asking a question, try to find the answer yourself. He
    [RSpec](https://relishapp.com/rspec), and
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also the handy [cheat sheet](https://devhints.io/capybara)).
 
-5. **Use Google**. If you're unsure how to go about googling technical issues, or want to be more effective at using Google to find answers to programming questions, watch this video – "[Art of Googling as a Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's a bit Python-centric, but the principles apply to any programming language on any platform – and pretty much anything technical.
-
-If all of the above fails, ask a question!
+If you have no success with the above, then ask a question.
 
 ### How Do I Go About Asking Questions?
 
