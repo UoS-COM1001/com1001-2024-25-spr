@@ -35,13 +35,30 @@ A few seconds may elapse, but then you'll see a screen saying "Loading Project..
 
 We're now going to create a quick and simple Sinatra application.
 
-First open a new terminal (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar). All applications can initially be created using the `create_app` command. So type:
+First open a new terminal (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar). Create a new directory called `hello_world` using the `mkdir` command, and then change the current directory the terminal is in to it, using the `cd` command.
 
 ```console
-create_app hello_world
+mkdir hello_world
+cd hello_world
 ```
 
-You should see a folder called `hello_world` in the file tree in the left sidebar of the Codio interface. Click on the arrow to the left of it to reveal the files within it, and you should see a series of sub-directories, one of which is called `controllers`. Right-click on controllers and select "New File...". In the dialog box that appears, enter `hello_world.rb` as the filename. In the file editor that now opens, enter the following code:
+You should see a folder called `hello_world` in the file tree in the left sidebar of the Codio interface. However it's empty, so you cannot reveal any files in it. You can confirm this by typing
+
+```console
+ls -al
+```
+
+which should report a total of 0 files and directories.
+
+Now, we're going to create our first Sinatra application. Type:
+
+```console
+create_app
+```
+
+An arrow should appear next to the `hello_world` directory in the file tree, and clicking on it should reveal a series of entries. You can confirm this in the terminal by typing `ls -al` again.
+
+One of the subdirectories in the filetree is called `controllers`. Right-click on controllers and select "New File...". In the dialog box that appears, enter `hello_world.rb` as the filename. In the file editor that now opens, enter the following code:
 
 ```ruby
 get "/hello-world" do
@@ -49,77 +66,29 @@ get "/hello-world" do
 end
 ```
 
-You can run this application in two ways:
-
-***Method 1:*** Find `app.rb` at the bottom of the file tree in the `hello_world` directory and click on it, opening it in a text editor. Then click "Run" in the top menu bar (to the right of "Help").
-
-***Method 2 (Preferred):*** Go back to the terminal tab where you typed `create_app ...`. Change to the application directory by typing
-
-```console
-cd hello_world
-```
-
-Then start the application with:
+You can now run this application by going back to the terminal and typing:
 
 ```console
 sinatra
 ```
 
-In either case, Sinatra will start a web server that is serving your application.
-
-
-
-
-
-
-To run an example you'll need to change to the directory where it exists as a Ruby file. You'll need to ensure the appropriate gems are installed. Each directory contains a `Gemfile` so it is easy for you to ensure this using [Bundler](https://bundler.io). Bundler is already installed on Codio, so you just need to issue a `bundle install` command in the terminal in the appropriate directory.
-
-To run an example, you will need to change to the directory of the example and then use the `sinatra` command, followed by the filename.
-
-For example, to run the `hello_world.rb` example in the ``getting-started``
-directory, you would need to open a Terminal and enter the following commands:
-
-1) Change to the appropriate directory using the `cd` command:
-
-```console
-cd com1001-2024/getting-started/
-```
-
-If you type `ls` in this directory, you'll see there is one example called `hello_world_example`, so then type:
-
-```console
-cd hello_world_example
-```
-
-If you type `ls` now, you should see three files, one of which is called `hello_world.rb`, which is the Sinatra example we want to run.
-
-2) Run the `sinatra` command:
-
-Type:
-
-```console
-sinatra hello_world.rb
-```
-
-Most examples are full applications with an `app.rb` file. To run these you can just run the `sinatra` command without any arguments in the directory containing `app.rb`.
-
-Not all `.rb` files in a directory can be run, since they are a component part of an overall application, and not an "entry point" designed to be run themselves. It should be clear from the explanations in lectures and looking at the code itself which files are meant to be run and which ones are not.
+This command will start a web server that is serving your application. If you did everything correctly, then as part of the blurb outputted by the command will be a yellow link that starts with "https:// ... " and ends with "-4567.codio.io/hello-world". Clicking this link opens a new browser window that "runs" the code you just wrote and outputs the message "Hello, World!".
 
 ## 3. Cloning the Examples Repository on Codio
 
-Open a terminal and enter the following command:
+In addition to this GitHub repository there is another that contains a series of Sinatra code examples that will be discussed in lectures. You can clone this repository by opening a terminal and entering the following command:
 
 ```console
 git clone https://github.com/UoS-COM1001/com1001-examples.git
 ```
 
-(If you hover over the command, a clipboard icon will appear. If you click it, you can copy the command to your clipboard and then paste it into your terminal.)
-
-You'll be asked a question ("Are you sure you want to continue connecting ... ?") - just type "yes", followed by enter.
+You don't need to understand these now, but feel free to take a look at them and run them. Occasionally these will be updated and/or bugs will be fixed, so do a `git pull` regularly.
 
 ## 4. Cloning Your Team's Repository
 
-Your team's repository may be found on GitLab. To clone it, make sure you're somewhere appropriate in your filetree in the Terminal. The best place is probably the `workspace` directory. The `workspace` directory is the directory the Terminal opens in, where all subdirectories and files are listed in the left sidebar. So if you've followed all the instructions correctly so far, your sidebar should have the COM1001 repository directory listed in it – `com1001-2024`.
+While the course materials are all on GitHub, your team's repository can be found on GitLab.
+
+Your team's repository may be found on GitLab. To clone it, make sure you're somewhere appropriate in your filetree in the Terminal. The best place is probably the `workspace` directory. The `workspace` directory is the directory the Terminal opens in, where all subdirectories and files are listed in the left sidebar. So if you've followed all the instructions correctly so far, your sidebar should have just the `hello-world` directory and the `com1001-examples` repository directory listed in it.
 
 To clone your team's repository, you'll need to run the command:
 
@@ -129,7 +98,9 @@ git clone git@git.shefcompsci.org.uk:com1001-2024-25/teamXX/project.git
 
 replacing `XX` in the command with your two-digit team number (if you're in team 1-9, you'll need to enter a leading zero, i.e., 01, 02 etc.) Again, type "yes" to any authenticity questions.
 
-Check you can commit, push, and pull files to and from the repository using the appropriate commands.
+This will create a directory called `project`, which is where the Sinatra application will live that your team will build. If `project` is an empty directory (i.e., a team mate of yours did not already get to these instructions first) you may run `create_app` in it. Be sure your terminal is actually "in" the `project` directory before you do this, so that you don't create an application in the wrong place. You can then commit and push these files back to the repository.
+
+Check you can commit, push, and pull files to and from the repository correctly using the appropriate commands.
 
 If you are experiencing problems with your team's repository let Phil McMinn or your demonstrator know immediately. BUT BEFORE YOU DO THIS, NOTE: If you haven't yet completed the Revision Control (week 8) units from last semester as to how to use Git, make sure you've done them before you contact us (or, if think you might need a refresher). In particular, you will need to set GitLab up with your personal Codio SSH keys as described in the second unit. If you haven't completed this step, you will not be able to clone your team's GitLab repository for completing the project.
 
