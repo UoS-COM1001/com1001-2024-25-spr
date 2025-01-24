@@ -50,12 +50,16 @@ Lectures will be held on **Tuesday 9-11am and Thursdays 3-5pm in the [Diamond](h
 
 Practical sessions will be held on **Thursdays 5-6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. 
 
+#### Weeks 1-5
+
 In weeks 1-5, the practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
 
 **TODO - Phil to complete when all UG demonstrators are confirmed:**
 Where you go and where you sit depends on which team you're in:
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
 * **Teams 27-47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
+
+#### Weeks 6-11
 
 In weeks 6-11, the practical session will take the form of an (optional) drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
 
