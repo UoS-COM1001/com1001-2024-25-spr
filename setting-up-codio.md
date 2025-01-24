@@ -9,7 +9,7 @@
 3. [Hello, World!](#3-hello-world)
 4. [Cloning the Examples Repository on Codio](#4-cloning-the-examples-repository-on-codio)
 5. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
-6. [Advanced Codio](#6-advanced-codio)
+6. [Using VSCode](#6-using-vscode)
 
 ## 1. Logging into Codio
 
@@ -76,7 +76,7 @@ An alternative way to start the web server is to click the "Run" button that is 
 
 When you have finished your session, type control and "C" together to exit Sinatra. (After you've exited, don't expect to see any more pages served at the URL until you restart Sinatra again.)
 
-## 3. Cloning the Examples Repository on Codio
+## 4. Cloning the Examples Repository on Codio
 
 In addition to this GitHub repository there is another that contains a series of Sinatra code examples that will be discussed in lectures. You can clone this repository by opening a terminal and entering the following command:
 
@@ -86,7 +86,7 @@ git clone https://github.com/UoS-COM1001/com1001-examples.git
 
 You don't need to understand these now, but feel free to take a look at them and run them. Occasionally these will be updated and/or bugs will be fixed, so do a `git pull` regularly.
 
-## 4. Cloning Your Team's Repository
+## 5. Cloning Your Team's Repository
 
 While the course materials are all on GitHub, your team's repository can be found on GitLab.
 
@@ -106,9 +106,7 @@ Check you can commit, push, and pull files to and from the repository correctly 
 
 If you are experiencing problems with this step, check out the technical FAQ &mdash; [I cannot clone my team's repository](./technical-FAQ.md#i-cannot-clone-my-teams-repository).
 
-## 5. Advanced Codio
-
-### Using VSCode
+## 6. Using VSCode
 
 The standard text editor in Codio is rather basic, but you can used Visual Studio Code [(VSCode)](https://code.visualstudio.com) instead. VSCode is a popular text editor and IDE for many languages, and may be used in a web browser on Codio itself. Assuming you have followed in the previous instructions in the first lecture and have everything setup in Codio, then you will have a Codio box already up and running. In Codio, go to "Tools", then "Install Software". Scroll down the list and select "VSCode". VSCode will be now available at a special URL in your web browser for use with your Codio files. The URL you need to access it depends on your Codio box name. This is different from your project's name. Your Codio box name is the subdomain of your Codio Box domain, which Codio tells you in the prompt of every Terminal session that you start. For example, my Terminal prompt is the following:
 
