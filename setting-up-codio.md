@@ -102,7 +102,7 @@ This will create a directory called `project`, which is where the Sinatra applic
 
 Check you can commit, push, and pull files to and from the repository correctly using the appropriate commands.
 
-If you are experiencing problems with your team's repository let Phil McMinn or your demonstrator know immediately. BUT BEFORE YOU DO THIS, NOTE: If you haven't yet completed the Revision Control (week 8) units from last semester as to how to use Git, make sure you've done them before you contact us (or, if think you might need a refresher). In particular, you will need to set GitLab up with your personal Codio SSH keys as described in the second unit. If you haven't completed this step, you will not be able to clone your team's GitLab repository for completing the project.
+If you are experiencing problems with this step, check out the technical FAQ &mdash; [I cannot clone my team's repository](./technical-FAQ.md#i-cannot-clone-my-teams-repository).
 
 ## 5. Advanced Codio
 
