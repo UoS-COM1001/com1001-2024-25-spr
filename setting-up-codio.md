@@ -13,7 +13,7 @@
 
 ## 1. Logging into Codio
 
-In the last semester, you exclusively accessed Codio through the units, but this semester it's easier to sign into Codio directly, which means you'll need a password. Go to https://codio.com and click the "Sign In" link. If you don't already have a password, click the "Lost your password?" link and enter your university email address (ok, so you didn't lose it, you never had one in the first place — but this is how to get one!). Ensure you set your password to something memorable and secure.
+In the last semester, you exclusively accessed Codio through the units, but this semester it's easier to sign into Codio directly, which means you'll need a password. Go to https://codio.com and click the "Sign In" link. If you don't already have a password, click the "Lost your password?" link and enter your university email address (ok, so you didn't lose it, you never had one in the first place — but this is how to get one!). Ensure you set your password to something secure and hard for others to guess.
 
 ## 2. Creating a Project
 
