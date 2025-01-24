@@ -58,7 +58,7 @@ Where you go and where you sit depends on which team you're in:
 
 ### Drop-In Sessions
 
-From week 6 until week 11, the practical session will be replaced by a drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lectuer content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
+From week 6 until week 11, the practical session will be replaced by a drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
 
 ### Supervisor Meetings
 
