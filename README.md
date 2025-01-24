@@ -29,7 +29,6 @@ Materials for the module can all be found in this repository, which consists of 
 **TODO - Phil/Donghwan to complete**
 | Week | Lecture Content | Practical Session | Resources | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|-|
-|Pre   | | | [getting-started/](./getting-started/) |
 |1     | <ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| | |  | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | | | | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | | |  | |
