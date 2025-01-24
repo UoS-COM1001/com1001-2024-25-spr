@@ -34,13 +34,13 @@ Materials for the module can all be found in this repository, which consists of 
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | | |
 |4     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li></ul> | TBA | | |
 |5     | <ul><li>Using Code Coverage as a Tool for Testing</li><li>Debugging</li><li>Refactoring</li></ul> | TBA | | |
-|6     | *No lectures* | Drop-In Session | | | |
-|7     | *No lectures* | Drop-In Session | | Iteration 1 (formative) <br /> Friday (28 Mar) 3pm |
-|8     | *No lectures* | Drop-In Session | | | |
+|6     | *No lectures* | Drop-In Session | | |
+|7     | *No lectures* | Drop-In Session | | Iteration 1 (formative) <br /> Friday (28 March) 3pm |
+|8     | *No lectures* | Drop-In Session | | |
 |Easter|
-|9     | *No lectures* | Drop-In Session | | | |
-|10    | *No lectures* | Drop-In Session | | | |
-|11    | *No lectures* | Drop-In Session | | | |
+|9     | *No lectures* | Drop-In Session | | |
+|10    | *No lectures* | Drop-In Session | | |
+|11    | *No lectures* | Drop-In Session | | Iteration 2 (summative) <br /> Friday (16 May) 3pm |
 
 ### Lectures
 
