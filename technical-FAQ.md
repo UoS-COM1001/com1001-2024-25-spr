@@ -57,7 +57,7 @@ It would seem that you haven't set your Codio project up in the correct way – 
 
 Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
 
-### When I try to run one of the examples from the lectures found in this repository, it crashes with an error.
+### When I try to run one of the examples from the lectures, it crashes with an error.
 
 This is likely because you need to install the gems for the example first. In the terminal, ensure you have changed directory to the one containing the example, and type the following:
 
