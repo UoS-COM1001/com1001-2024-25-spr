@@ -130,7 +130,7 @@ Ensure that you have the `sqlite3` gem installed as well as the `sequel` gem.
 
 ### Can we use further gems for the project?
 
-Of course, you can add/use additional gems above those mentioned in lectures.
+Of course, you can add/use additional gems above those mentioned in lectures. Just make sure your project has a `Gemfile` and that they are listed there, so that your project can be installed elsewhere (including your teammates' Codio boxes) via a `bundle install`.
 
 ### When testing, my application seems to behave differently compared to when it's being used for real.
 
