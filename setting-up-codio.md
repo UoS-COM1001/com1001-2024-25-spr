@@ -114,6 +114,6 @@ The standard text editor in Codio is rather basic, but you can used Visual Studi
 codio@everton-fan:~/workspace$
 ```
 
-This means my box name is ``everton-fan``. This means the URL I would be accessing VSCode from, if I installed it, would be https://everton-fan-4000.codio.io. Note that this URL is essentially the same as the Base URL of your web applications launched from Codio (as discussed in lectures), but using port 4000.
+This means my box name is ``everton-fan``. This means the URL I would be accessing VSCode from, if I installed it, would be https://everton-fan-4000.codio.io. Note that this URL is essentially the same as the Base URL of your web applications launched from Codio (something we will discuss in week 1's lectures), but using port 4000.
 
 
