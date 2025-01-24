@@ -29,11 +29,11 @@ Materials for the module can all be found in this repository, which consists of 
 **TODO - Phil/Donghwan to complete**
 | Week | Lecture Content | Practical Session | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|
-|1     | <ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| | | |
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | | | |
-|3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | | | |
-|4     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li></ul> | | | |
-|5     | <ul><li>Using Code Coverage as a Tool for Testing</li><li>Debugging</li><li>Refactoring</li></ul> | | | |
+|1     | <ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | TBA | | |
+|3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | | |
+|4     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li></ul> | TBA | | |
+|5     | <ul><li>Using Code Coverage as a Tool for Testing</li><li>Debugging</li><li>Refactoring</li></ul> | TBA | | |
 |6     | *No lectures* | Drop-In Session | | | |
 |7     | *No lectures* | Drop-In Session | | | |
 |8     | *No lectures* | Drop-In Session | | | |
