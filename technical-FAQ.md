@@ -126,7 +126,7 @@ Make sure that your project has all the gems it needs by keeping your `Gemfile` 
 
 ### I'm getting an error message `cannot load such file -- sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
 
-You need the `sqlite3` gem installed as well. Make sure both the `sequel` and the `sqlite3` gems are part of your project's `Gemfile`.
+Ensure that you have the `sqlite3` gem installed as well as the `sequel` gem.
 
 ### Can we use further gems for the project?
 
