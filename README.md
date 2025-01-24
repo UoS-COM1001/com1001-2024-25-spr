@@ -26,6 +26,7 @@ The [Group Project Brief](Spring-Project-Brief.md) will give necessary details a
 
 Materials for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module. You can clone this repository to your machine to get all the materials automatically, rather than having to download them each time &mdash; just ensure that you regularly do a `git pull`.
 
+**TODO - Phil/Donghwan to complete**
 | Week | Lecture Content | Practical Session | Resources | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](./getting-started/) |
@@ -50,14 +51,14 @@ Lectures will be held on **Tuesday 9-11am and Thursdays 3-5pm in the [Diamond](h
 
 Practical sessions will be held on **Thursdays 5-6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 5**. The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
 
-**TODO - Phil to complete:**
+**TODO - Phil to complete when all UG demonstrators are confirmed:**
 Where you go and where you sit depends on which team you're in:
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
 * **Teams 27-47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
 
 ### Drop-In Sessions
 
-From week 6 onwards, until week **TODO Phil to complete** the practical session will be replaced by a drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, and we'll endeavour to help.
+From week 6 until week 11, the practical session will be replaced by a drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lectuer content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
 
 ### Supervisor Meetings
 
