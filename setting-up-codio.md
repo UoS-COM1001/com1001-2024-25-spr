@@ -5,7 +5,7 @@
 ### Contents of this README file
 
 1. [Logging into Codio](#1-logging-into-codio)
-2. [Creating a Project](#2-creating-up-a-project)
+2. [Setting up your Codio Box](#2-setting-up-your-codio-box)
 3. [Hello, World!](#3-hello-world)
 4. [Cloning the Examples Repository on Codio](#4-cloning-the-examples-repository-on-codio)
 5. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
@@ -15,7 +15,7 @@
 
 In the last semester, you exclusively accessed Codio through the units, but this semester it's easier to sign into Codio directly, which means you'll need a password. Go to https://codio.com and click the "Sign In" link. If you don't already have a password, click the "Lost your password?" link and enter your university email address (ok, so you didn't lose it, you never had one in the first place — but this is how to get one!). Ensure you set your password to something secure and hard for others to guess.
 
-## 2. Creating a Project
+## 2. Setting up your Codio Box
 
 You'll then need to set up your own virtual machine on Codio. You'll be using this to develop on and run the examples from the lectures. With Codio, you set up a virtual machine - usually called a "Codio box", or just a "box" - by configuring something called a project.
 
