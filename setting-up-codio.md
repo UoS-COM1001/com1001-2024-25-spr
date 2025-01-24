@@ -72,7 +72,11 @@ You can now run this application by going back to the terminal and typing:
 sinatra
 ```
 
-This command will start a web server that is serving your application. If you did everything correctly, then as part of the blurb outputted by the command will be a yellow link that starts with "https:// ... " and ends with "-4567.codio.io/hello-world". Clicking this link opens a new browser window that "runs" the code you just wrote and outputs the message "Hello, World!".
+This command will start a web server that is serving your application. If you did everything correctly, then as part of the blurb outputted by the command will be a yellow link that starts with `https:// ...` and ends with `-4567.codio.io/hello-world`. Clicking this link opens a new browser window that "runs" the code you just wrote and outputs the message "Hello, World!".
+
+An alternative way to start the web server is to click the "Run" button that is next to the menu bar. This works so long as you are currently editing a file somewhere in your application. You can also use the "View" button instead of clicking the yellow link, but make sure that in the dropdown "New Browser Tab" is selected as the "Inside Codio" option does not work. 
+
+When you have finished your session, type control and "C" together to exit Sinatra. (After you've exited, don't expect to see any more pages served at the URL until you restart Sinatra again.)
 
 ## 3. Cloning the Examples Repository on Codio
 
