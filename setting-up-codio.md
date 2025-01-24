@@ -4,20 +4,19 @@
 
 ### Contents of this README file
 
-1. [Setting up Codio](#1-setting-up-codio)
-2. [Hello, World!](#2-hello-world)
-3. [Cloning the Examples Repository on Codio](#3-cloning-the-examples-repository-on-codio)
-4. [Cloning your Team's Repository](#4-cloning-your-teams-repository)
-5. [Advanced Codio](#5-advanced-codio)
+1. [Logging into Codio](#1-logging-into-codio)
+2. [Creating a Project](#2-creating-up-a-project)
+3. [Hello, World!](#3-hello-world)
+4. [Cloning the Examples Repository on Codio](#4-cloning-the-examples-repository-on-codio)
+5. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
+6. [Advanced Codio](#6-advanced-codio)
 
-## 1. Setting up Codio
-
-### Obtaining a Password
+## 1. Obtaining a Password
 
 In the last semester, you may have exclusively accessed Codio through the units, but this semester you'll need to sign into Codio directly, which means you'll need a password. Go to https://codio.com and click the "Sign In" link. If you don't already have a
 password, click the "Lost your password?" link and enter your university email address (ok, so you didn't lose it, you never had one in the first place — but this is how to get one!).
 
-### Setting up a Project
+## 2. Creating a Project
 
 You'll then need to set up your own virtual machine on Codio. You'll be using this to develop on and run the examples from the lectures. With Codio, you set up a virtual machine - usually called a "Codio box", or just a "box" - by configuring something called a project.
 
@@ -31,7 +30,7 @@ Give your project a name under **"Add some details"**. You can call your project
 
 A few seconds may elapse, but then you'll see a screen saying "Loading Project...", followed by a new screen. This is now your project. When you next sign into Codio, you can just go to "My Projects", and your project will be listed with the name you chose. You can just click it to restart it - you don't need to create a new project each time you sign in.
 
-## 2. Hello, World!
+## 3. Hello, World!
 
 We're now going to create a quick and simple Sinatra application.
 
