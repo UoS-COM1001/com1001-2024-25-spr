@@ -33,7 +33,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 | Week | Lecture Content | Practical Session | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|
 |1     | **Foundations**<ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| <ul><li>Starting to Develop Your Team Web Application</li><li>Coding Challenge</li></ul> | | |
-|2     | **Forms & Sesssions**<ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | <ul><li>Incorporating Queries and Forms</li><li>Coding Challenge</li></ul> | | |
+|2     | **Forms & Sessions**<ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | <ul><li>Incorporating Queries and Forms</li><li>Coding Challenge</li></ul> | | |
 |3     | **Databases**<ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | <ul><li>Creating a Database and a Set of Models for Your Application</li><li>Coding Challenge</li></ul> | | |
 |4     | **Testing**<ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | <ul><li>Testing Your Application</li></ul> | | |
 |5     | **Development Issues**<ul><li>Debugging</li><li>Refactoring</li></ul> | <ul><li>Refactoring</li><li>Debugging Challenge</li></ul> | | |
