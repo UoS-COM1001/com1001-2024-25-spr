@@ -54,10 +54,9 @@ Practical sessions will be held on **Thursdays 5-6pm in the [Diamond](https://ww
 
 In weeks 1-5, the practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
 
-**TODO - Phil to complete when all UG demonstrators are confirmed:**
 Where you go and where you sit depends on which team you're in:
-* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
-* **Teams 27-47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
+* **Teams 1-23** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
+* **Teams 24-47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
 
 #### Weeks 6-11
 
