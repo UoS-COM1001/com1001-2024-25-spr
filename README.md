@@ -29,6 +29,7 @@ Materials for the module can all be found in this repository, which consists of 
 Lecture and practical content for this module is front-loaded in weeks 1&ndash;5 so that you have all the knowledge and expertise that you need to complete development and testing of the team project in the remainder of the semester.
 
 **TODO - Donghwan to complete details of supervisor meetings if required **
+
 | Week | Lecture Content | Practical Session | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|
 |1     | **Foundations**<ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | | |
