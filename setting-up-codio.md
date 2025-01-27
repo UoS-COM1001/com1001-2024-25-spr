@@ -1,4 +1,4 @@
-# Setting Up Codio
+# Setting up Codio
 
 **NOTE:** you can watch me go through the contents of this README in a video on [Blackboard]().
 
