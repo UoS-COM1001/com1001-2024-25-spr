@@ -124,9 +124,10 @@ The interim/final report should include the following information:
 
 ### Demonstration (Recording)
 
-Your team will be required to submit a 15-minute demonstration recording of your system. 
+Your team will be required to submit a 10-minute demonstration recording of your system. Upload the recording to YouTube as an **unlisted video** and submit the link to the video in your report.
+
 Here are some remarks for you:
-- Be on time.
+- Be on time (no more than 10 minutes!).
 - It's for the client – make it easy to follow and focus on your team's key achievements.
 - After all, a good demonstration is a good sales pitch.
 
