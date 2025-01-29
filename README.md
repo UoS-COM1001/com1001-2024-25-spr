@@ -19,8 +19,7 @@ Before you start with anything, you need to get Codio setup so that you can  run
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ itself.
 
-**TODO - Donghwan to check**
-The [Group Project Brief](Spring-Project-Brief.md) will give necessary details about your group project and assessments. If you have any questions regarding that, please consult the [Project FAQ](https://github.com/UoS-COM1001/com1001-2024/blob/main/project-FAQ.md) and use the Discussion Board/Forum.
+The [Group Project Brief](Spring-Project-Brief.md) will give necessary details about your group project and assessments. If you have any questions regarding that, please consult the [Project FAQ](project-FAQ.md) and use the Discussion Board/Forum.
 
 ## 3. Schedule and Resources
 
@@ -28,22 +27,22 @@ Materials for the module can all be found in this repository, which consists of 
 
 Lecture and practical content for this module is front-loaded in weeks 1&ndash;5 so that you have all the knowledge and expertise that you need to complete development and testing of the team project in the remainder of the semester.
 
-**TODO – Donghwan to complete details of supervisor meetings if required**
+**TODO – Donghwan to complete details of scrum meetings if required**
 
-| Week | Lecture Content | Practical Session | Supervisor Meeting | Deadline |
+| Week | Lecture Content | Practical Session | Scrum Meeting | Deadline |
 |-:|-|-|-|-|
-|1     | **Foundations**<ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| <ul><li>Starting to Develop Your Team Web Application</li><li>Coding Challenge</li></ul> | | |
-|2     | **Forms & Sessions**<ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | <ul><li>Queries and Forms</li><li>Coding Challenge</li></ul> | | |
-|3     | **Databases**<ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | <ul><li>Creating a Database and a Set of Models for Your Application</li><li>Coding Challenge</li></ul> | | |
-|4     | **Testing**<ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | <ul><li>Testing Your Application</li></ul> | | |
-|5     | **Development Issues**<ul><li>Debugging</li><li>Refactoring</li></ul> | <ul><li>Coding Standards and Refactoring</li><li>Debugging Challenge</li></ul> | | |
-|6     | *No lectures* | Drop-In Session | | |
-|7     | *No lectures* | Drop-In Session | | Iteration 1 (formative) <br /> Friday (28 March) 3pm |
-|8     | *No lectures* | Drop-In Session | | |
+|1     | **Foundations**<ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| <ul><li>Starting to Develop Your Team Web Application</li><li>Coding Challenge</li></ul> | Team Operating Agreement | |
+|2     | **Forms & Sessions**<ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | <ul><li>Queries and Forms</li><li>Coding Challenge</li></ul> | Sprint 1 | |
+|3     | **Databases**<ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | <ul><li>Creating a Database and a Set of Models for Your Application</li><li>Coding Challenge</li></ul> | Sprint 1 | |
+|4     | **Testing**<ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | <ul><li>Testing Your Application</li></ul> | Sprint 2 | |
+|5     | **Development Issues**<ul><li>Debugging</li><li>Refactoring</li></ul> | <ul><li>Coding Standards and Refactoring</li><li>Debugging Challenge</li></ul> | Sprint 2 | |
+|6     | *No lectures* | Drop-In Session | Sprint 3 | |
+|7     | *No lectures* | Drop-In Session | Sprint 3 | Formative <br /> Friday (28 March) 3pm |
+|8     | *No lectures* | Drop-In Session | Sprint 4 | |
 |Easter|
-|9     | *No lectures* | Drop-In Session | | |
-|10    | *No lectures* | Drop-In Session | | |
-|11    | *No lectures* | Drop-In Session | | Iteration 2 (summative) <br /> Friday (16 May) 3pm |
+|9     | *No lectures* | Drop-In Session | Sprint 4 | |
+|10    | *No lectures* | Drop-In Session | Sprint 5 | |
+|11    | *No lectures* | Drop-In Session | Sprint 5 | Summative <br /> Friday (16 May) 3pm |
 
 ### Lectures
 
@@ -65,12 +64,10 @@ Where you go and where you sit depends on which team you're in:
 
 In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
 
-### Supervisor Meetings
+### Scrum Meetings
 
-**TODO - Donghwan to check**
-Each team will be allocated a supervisor (a member of the department's teaching staff). Each team will meet with their supervisor once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You only need to attend a 15-minute meeting in this two-hour block. The exact time of your team meetings and the seating plan is available [here](misc/CR5-seating-plan-supervisor-meeting.pdf).
+Each team will have timetabled scrum meetings once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 3 (first floor) or Computer Room 5 (ground floor)** of the Diamond. The exact seating plan is available [here](misc/CR3-CR5-seating-plan.pdf).
 
-There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo meetings** are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for Iterations 1 and 2. For the demo, your team will need its own device to showcase your work – or, you can use the laptop loan facility.
+Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings.
 
 Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. Technical advice will be available (via the demonstrators) in the scheduled practical sessions listed above.
-
