@@ -6,52 +6,22 @@
 ### Contents of this README file
 
 1. [Logging into Codio](#1-logging-into-codio)
-2. [Setting up your Codio Box](#2-setting-up-your-codio-box)
-3. [Hello, World!](#3-hello-world)
-4. [Cloning the Examples Repository on
+2. [Hello, World!](#3-hello-world)
+3. [Cloning the Examples Repository on
    Codio](#4-cloning-the-examples-repository-on-codio)
-5. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
-6. [Using VSCode](#6-using-vscode)
+4. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
+5. [Using VSCode](#6-using-vscode)
 
 ## 1. Logging into Codio
 
-In the last semester, you exclusively accessed Codio through the units, but this
-semester it's easier to sign into Codio directly, which means you'll need a
-password. Go to https://codio.com and click the "Sign In" link. If you don't
-already have a password, click the "Lost your password?" link and enter your
-university email address (ok, so you didn't lose it, you never had one in the
-first place — but this is how to get one!). Ensure you set your password to
-something secure and hard for others to guess.
+Go to [COM1001 on
+Blackboard](https://vle.shef.ac.uk/ultra/courses/_116942_1/outline). Scroll down
+to "Learning Materials: Semester 2", and reveal the contents. Then click "Team
+Project on Codio". This should load your "project". This will be where you do
+your coding on your team project, and run examples discussed in lectures and
+write any code to try-out any principles outside of the team project itself.
 
-## 2. Setting up your Codio Box
-
-You'll then need to set up your own virtual machine on Codio. You'll be using
-this to develop on and run the examples from the lectures. With Codio, you set
-up a virtual machine - usually called a "Codio box", or just a "box" - by
-configuring something called a project.
-
-To do this, sign in, and click the  **"My Projects"** link under the "BUILD" in
-the left sidebar, and click the **"New Project"** button at the top of the page.
-
-Under **"Choose your Starting Point"** you need to select "Sinatra". However,
-the option won't be there the first time you do this. You will need to click
-"+browse for more". In the search box type "sinatra" and press enter. You should
-then see a button that says "THE UNIVERSITY OF SHEFFIELD/SINATRA", with a hat
-logo. Ensure this is selected.
-
-Give your project a name under **"Add some details"**. You can call your project
-anything you like – but if you have more than one project, you'll need to ensure
-they each have a unique name.  Ensure **"Select the visibility"** is "Private".
-
-**You're now ready to create your box by clicking "Create".**
-
-A few seconds may elapse, but then you'll see a screen saying "Loading
-Project...", followed by a new screen. This is now your project. When you next
-sign into Codio, you can just go to "My Projects", and your project will be
-listed with the name you chose. You can just click it to restart it - you don't
-need to create a new project each time you sign in.
-
-## 3. Hello, World!
+## 2. Hello, World!
 
 We're now going to create a quick and simple Sinatra application.
 
@@ -114,11 +84,11 @@ somewhere in your application. You can also use the "View" button instead of
 clicking the yellow link, but make sure that in the dropdown "New Browser Tab"
 is selected as the "Inside Codio" option does not work.
 
-When you have finished your session, type control and "C" together to exit
-Sinatra. (After you've exited, don't expect to see any more pages served at the
-URL until you restart Sinatra again.)
+When you have finished your session, press "control" and "c" together on your
+keyboard to exit Sinatra. (After you've exited, don't expect to see any more
+pages served at the URL until you restart Sinatra again.)
 
-## 4. Cloning the Examples Repository on Codio
+## 3. Cloning the Examples Repository on Codio
 
 In addition to this GitHub repository there is another that contains a series of
 Sinatra code examples that will be discussed in lectures. You can clone this
@@ -132,7 +102,7 @@ You don't need to understand these now, but feel free to take a look at them and
 run them. Occasionally these will be updated and/or bugs will be fixed, so do a
 `git pull` regularly.
 
-## 5. Cloning Your Team's Repository
+## 4. Cloning Your Team's Repository
 
 While the course materials are all on GitHub, your team's repository can be
 found on GitLab.
@@ -170,7 +140,7 @@ If you are experiencing problems with this step, check out the technical FAQ
 &mdash; [I cannot clone my team's
 repository](./technical-FAQ.md#i-cannot-clone-my-teams-repository).
 
-## 6. Using VSCode
+## 5. Using VSCode
 
 The standard text editor in Codio is rather basic, but you can used Visual
 Studio Code [(VSCode)](https://code.visualstudio.com) instead. VSCode is a
