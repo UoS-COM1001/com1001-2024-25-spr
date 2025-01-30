@@ -1,4 +1,4 @@
-# COM1001 &mdash; Introduction to Software Engineering <br /> Spring Semester 2025
+# COM1001 &mdash; Introduction to Software Engineering <br /> Spring Semester 2024/25
 
 Welcome! This repository contains information, code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
