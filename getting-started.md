@@ -40,7 +40,7 @@ sidebar of the Codio interface. However it's empty, so you cannot reveal any
 files in it. You can confirm this by typing
 
 ```console
-ls -al
+ls -l
 ```
 
 which should report a total of 0 files and directories.
