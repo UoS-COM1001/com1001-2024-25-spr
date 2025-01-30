@@ -48,23 +48,23 @@ Lectures will be held on **Tuesday 9&ndash;11am and Thursdays 3&ndash;5pm in the
 
 ### Practical Sessions
 
-Practical sessions will be held on **Thursdays 5&ndash;6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. 
+Practical sessions will be held on **Thursdays 5&ndash;6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**.
 
 #### Weeks 1&ndash;5
 
 In weeks 1&ndash;5, the practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
 
 Where you go and where you sit depends on which team you're in:
-* **Teams 1&ndash;23** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
-* **Teams 24&ndash;47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
+* **Teams 1&ndash;23** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/cr3-practicals.pdf).
+* **Teams 24&ndash;47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
 
 #### Weeks 6&ndash;11
 
-In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams. 
+In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams.
 
 ### Scrum Meetings
 
-Each team will have timetabled scrum meetings once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 3 (first floor) or Computer Room 5 (ground floor)** of the Diamond. The exact seating plan is available [here](misc/CR3-CR5-seating-plan.pdf).
+Each team will have timetabled scrum meetings once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 3 (first floor) or Computer Room 5 (ground floor)** of the Diamond. Check out the [seating plan](misc/CR3-CR5-scrum-meetings.pdf) to find out where you need to be.
 
 Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings. See the [Team Project Brief](Spring-Project-Brief.md) for more details.
 
