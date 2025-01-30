@@ -19,7 +19,7 @@ To facilitate this process, we will have _weekly scrum meetings_ every Tuesday a
 - Individual stand-ups (max 3 mins each): Each team member will share what they have done, what they will do, and any blockers they have;
 - Team progress review (max 15 mins): Discuss the current progress, any blockers, and adjust the next steps together.
 - Planning and reflection: At the start of each sprint, reflect on the previous sprint and plan the next sprint (e.g., major tasks to complete, prioritise tasks, etc.).
-- Task management (continuously): Use [*GitLb Issue Boards*](https://docs.gitlab.com/ee/user/project/issue_board.html) to manage all tasks, including assignments and due dates. This will help you to keep track of what needs to be done and who is doing what. **Using the Issues Boards is compulsory.** Feel free to additionally use Labels (e.g., Database, Testing) and Milestones (e.g., Interim Submission, Final Submission) to categorise and prioritise tasks. 
+- Task management (continuously): Use [*GitLb Issue Boards*](https://docs.gitlab.com/ee/user/project/issue_board.html) to manage all tasks, including non-technical tasks (e.g., report section X). This will help you to keep track of what needs to be done and who is doing what. **Using the Issues Boards is compulsory.** Feel free to additionally use Labels (e.g., Database, Testing) and Milestones (e.g., Interim Submission, Final Submission) to categorise and prioritise tasks. 
 
 
 ### Weekly Schedule
