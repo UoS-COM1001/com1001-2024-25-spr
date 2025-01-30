@@ -1,6 +1,6 @@
-# Setting up Codio
+# Getting Started
 
-**NOTE:** you can watch me go through the contents of this README in a video on
+**NOTE:** you can watch me go through the steps of this README in a video on
 [Blackboard]().
 
 ### Contents of this README file
