@@ -142,32 +142,11 @@ repository](./technical-FAQ.md#i-cannot-clone-my-teams-repository).
 
 ## 5. Using VSCode
 
-The standard text editor in Codio is rather basic, but you can used Visual
+The standard text editor in Codio is rather basic, but you can use Visual
 Studio Code [(VSCode)](https://code.visualstudio.com) instead. VSCode is a
-popular text editor and IDE for many languages, and may be used in a web browser
-on Codio itself. Assuming you have followed in the previous instructions in the
-first lecture and have everything setup in Codio, then you will have a Codio box
-already up and running.
+popular text editor and IDE for many languages and may be used in a web browser
+on Codio itself. 
 
-Assuming you've already successfully completed the "Hello, World!" example
-above, you should, as a result of running `sinatra`, options to the right of the
-"help" menu in the menu bar. The first should be called "Run", while the other
-will have the title "No view - Sinatra not running" or "View". If you click the
-arrow down button to the right of this latter option, you should see "VSCode" in
-the menu. Click on that, and VSCode should load.
-
-You can access VSCode by this button, or use a special direct URL. The URL you
-need to access it depends on your Codio box name. This is different from your
-project's name. Your Codio box name is the subdomain of your Codio Box domain,
-which Codio tells you in the prompt of every Terminal session that you start.
-For example, my Terminal prompt is the following:
-
-```console
-codio@everton-fan:~/workspace$
-```
-
-This means my box name is ``everton-fan``. This means the URL I would be
-accessing VSCode from, if I installed it, would be
-https://everton-fan-4000.codio.io. Note that this URL is essentially the same as
-the Base URL of your web applications launched from Codio (something we will
-discuss in week 1's lectures), but using port 4000.
+You can access VSCode using the button to the right of the "Run" button in the 
+menu bar. It can operate within Codio itself, or in a completely separate 
+browser tab (have a play with the drop-down options).
