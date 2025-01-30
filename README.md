@@ -15,7 +15,7 @@ Jump to:
 
 ## 2. Getting Started
 
-Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Setting Up Codio](./setting-up-codio.md) page.
+Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./getting-started.md) page.
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ itself.
 
