@@ -16,8 +16,10 @@
 
 Go to [COM1001 on
 Blackboard](https://vle.shef.ac.uk/ultra/courses/_116942_1/outline). Scroll down
-to "Learning Materials: Semester 2", and reveal the contents. Then click "Team
-Project on Codio". This should load your "project". This will be where you do
+to "Learning Materials: Semester 2", and reveal the contents. Then click "COM1001 
+Spring Semester on Codio". 
+
+This should load your personal "project" on Codio. This will be where you do
 your coding on your team project, and run examples discussed in lectures and
 write any code to try-out any principles outside of the team project itself.
 
