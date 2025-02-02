@@ -2,8 +2,10 @@
 
 In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester. The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
 
+Jump to:
+- [Assessment Criteria](#assessment-criteria)
 
-### Mini-Scrum Framework
+## Mini-Scrum Framework
 
 The key principles of the mini-scrum are as follows:
 - Incremental development: Build your system in small, manageable increments over multiple iterations (i.e., sprints);
@@ -22,7 +24,7 @@ To facilitate this process, we will have _weekly scrum meetings_ every Tuesday a
 - Task management (continuously): Use [*GitLb Issue Boards*](https://docs.gitlab.com/ee/user/project/issue_board.html) to manage all tasks, including non-technical tasks (e.g., report section X). This will help you to keep track of what needs to be done and who is doing what. **Using the Issues Boards is compulsory.** Feel free to additionally use Labels (e.g., Database, Testing) and Milestones (e.g., Interim Submission, Final Submission) to categorise and prioritise tasks. 
 
 
-### Weekly Schedule
+## Weekly Schedule
 
 You should schedule stories to implement according to your prioritisation of the client's requirements. However, your implementation plan may also be necessarily constrained by the order in which technical material is covered in lectures and labs. Therefore, check out the lecture schedule and plan the stories you will implement for each sprint accordingly.
 
@@ -39,7 +41,7 @@ Below is a suggested week-by-week list of pointers for your team that you can us
 | 12 | Don't forget to complete the peer assessment (BuddyCheck) by Friday. |
 
 
-### Assessment Overview
+## Assessment Overview
 
 | Type | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
@@ -79,7 +81,7 @@ Regarding deployment:
 - Ensure that your `Gemfile` is up to date. If we cannot run your application on Codio due to missing gem information, this will severely negatively affect your mark.
 - (Pro-tip) Attempt a **clean install** before your final commit to check whether your system is successfully deployed and running on Codio.
 
-### Peer Assessment (BuddyCheck)
+## Peer Assessment (BuddyCheck)
 
 You will be using BuddyCheck to rate yourself and your team members on the following criteria:
 
@@ -93,7 +95,7 @@ Your final individual mark will be formed from a scaling factor that is applied 
 After the BuddyCheck, there will be an official claim period for any discrepancies in the peer assessment. No further changes will be accepted after the claim period.
 
 
-### Team Operating Agreement
+## Team Operating Agreement
 
 Each team must have a **signed team operating agreement**, as explained in Semester 1. 
 
@@ -103,7 +105,7 @@ Each team must have a **signed team operating agreement**, as explained in Semes
 - It must be signed by all team members and submitted as an appendix to the report.
 
 
-### Report
+## Report
 
 The interim/final report should include the following information:
 - Team ID, members, and the summary of each member's major contributions.
@@ -122,7 +124,7 @@ The interim/final report should include the following information:
 <img width="550" alt="listing-1" src="misc/listing-example.png">
 
 
-### Demonstration (Recording)
+## Demonstration (Recording)
 
 Your team will be required to submit a 10-minute demonstration recording of your system. Upload the recording to YouTube as an **unlisted video** and submit the link to the video in your report.
 
@@ -132,19 +134,19 @@ Here are some remarks for you:
 - After all, a good demonstration is a good sales pitch.
 
 
-### Client Questions
+## Client Questions
 
 You can also use the same discussion board (Forum: Team Project - Client Questions) to communicate with the client, as you did in the autumn semester.
 
 
-### Team Supervisors
+## Team Supervisors
 
 During the weekly scrum meetings, your _team supervisor_ will be present to do a 5-minute check-in with each team. Before this, the scrum master (the team leader for the week) must submit a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd_qwPSAQJeSiBA8xI6gf4RWGlZkdjAkUFGKoQDQM1wtiHGxQ/viewform?usp=dialog) summarising any outstanding issues (e.g., conflicts, lack of contribution) that need to be discussed with the supervisor.
 
 - Tip: If you have difficulties to sign in to the Google Form, please try to sign in with your TUOS email account on a *Private (Incognito)* window.
 
 
-### Unfair Means and Generative AI
+## Unfair Means and Generative AI
 
 It is essential to bear in mind the departmental rules on unfair means. Activities such as **plagiarism** or **collusion** will be treated as serious academic offences. This could lead to the award of a grade of zero for your submission.
 
@@ -154,7 +156,7 @@ To avoid any potential accidental wrongdoings, it is especially important that y
 
 We acknowledge that **Generative AI**, such as Google Bard and OpenAI ChatGPT, can be useful in learning. For example, it is okay to use Gen-AI to try various programming exercises. However, **the use of Gen-AI is prohibited in any of your submissions** subject to the assessment (i.e., the reports and the code commits to the team repository). For example, you must _not_ use the code generated by Gen-AI in the code pushed to your team repository. It is crucial that you learn by doing the project by yourself, and gaining an unfair advantage through the use of Gen-AI in the assessment will be treated as unfair means.
 
-### Questions
+## Further Questions
 
 If you have any questions, follow the steps below:
 1. Check this brief again carefully to see if the answer is here.
