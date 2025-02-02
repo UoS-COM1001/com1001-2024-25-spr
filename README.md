@@ -64,7 +64,7 @@ In weeks 6&ndash;11, the practical session will take the form of an (optional) d
 
 ### Scrum Meetings
 
-Each team will have timetabled scrum meetings once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 3 (first floor) or Computer Room 5 (ground floor)** of the Diamond. Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
+Each team will have timetabled scrum meetings once a week, **starting in week 1 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 3 (first floor) or Computer Room 5 (ground floor)** of the Diamond. Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
 
 Each team will be allocated a supervisor (a member of the department's teaching staff). Your team supervisor will check-in with you to see how your project is going during the scrum meetings. See the [Team Project Brief](Spring-Project-Brief.md) for more details.
 
