@@ -23,9 +23,9 @@ The key principles of the mini-scrum are as follows:
 - Collaboration: Work together as a team to deliver a working system that meets the client's requirements.
 
 For each sprint (lasting 2 weeks), your team must:
-- Plan what to do (e.g., breakdown user stories into tasks, estimate the time needed for each task);
-- Do the tasks;
-- Review what you have done.
+- Review the previous sprint;
+- Plan the current sprint (e.g., breakdown user stories into tasks, estimate the time needed for each task);
+- Do the tasks according to the plan.
 
 To facilitate this process, we will have _weekly scrum meetings_ every Tuesday at 2 pm from Week 1 to Week 11. 
 Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
