@@ -3,7 +3,18 @@
 In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester. The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
 
 Jump to:
-- [Assessment Criteria](#assessment-criteria)
+- [Mini-Scrum Framework](#mini-scrum-framework)
+  - [Weekly Schedule](#weekly-schedule)
+  - [Team Supervisors](#team-supervisors)
+  - [Client Questions](#client-questions)
+- [Assessment](#assessment)
+  - [Report](#report)
+  - [Demonstration](#demonstration-recording)
+  - [Team Operating Agreement](#team-operating-agreement)
+  - [Assessment Criteria](#assessment-criteria)
+  - [Peer Assessment](#peer-assessment-buddycheck)
+- [Unfair Means and Generative AI](#unfair-means-and-generative-ai)
+- [Futher Questions](#further-questions)
 
 ## Mini-Scrum Framework
 
@@ -16,7 +27,10 @@ For each sprint (lasting 2 weeks), your team must:
 - Do the tasks;
 - Review what you have done.
 
-To facilitate this process, we will have _weekly scrum meetings_ every Tuesday at 2 pm from Week 1 to Week 11. The key activities for the scrum meetings are:
+To facilitate this process, we will have _weekly scrum meetings_ every Tuesday at 2 pm from Week 1 to Week 11. 
+Check out the [seating plan](misc/cr3-cr5-scrum-meetings.pdf) to find out where you need to be.
+
+The key activities for the scrum meetings are:
 - Electing a scrum master (max 3 mins): Each week, a different team member will be the scrum master (the team leader for the week), responsible for leading the discussion;
 - Individual stand-ups (max 3 mins each): Each team member will share what they have done, what they will do, and any blockers they have;
 - Team progress review (max 15 mins): Discuss the current progress, any blockers, and adjust the next steps together.
@@ -24,7 +38,7 @@ To facilitate this process, we will have _weekly scrum meetings_ every Tuesday a
 - Task management (continuously): Use [*GitLb Issue Boards*](https://docs.gitlab.com/ee/user/project/issue_board.html) to manage all tasks, including non-technical tasks (e.g., report section X). This will help you to keep track of what needs to be done and who is doing what. **Using the Issues Boards is compulsory.** Feel free to additionally use Labels (e.g., Database, Testing) and Milestones (e.g., Interim Submission, Final Submission) to categorise and prioritise tasks. 
 
 
-## Weekly Schedule
+### Weekly Schedule
 
 You should schedule stories to implement according to your prioritisation of the client's requirements. However, your implementation plan may also be necessarily constrained by the order in which technical material is covered in lectures and labs. Therefore, check out the lecture schedule and plan the stories you will implement for each sprint accordingly.
 
@@ -41,21 +55,72 @@ Below is a suggested week-by-week list of pointers for your team that you can us
 | 12 | Don't forget to complete the peer assessment (BuddyCheck) by Friday. |
 
 
-## Assessment Overview
+### Team Supervisors
+
+During the weekly scrum meetings, your _team supervisor_ will be present to do a **5-minute check-in** with each team. 
+To make this efficient, the scrum master (the team leader for the week) must submit a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd_qwPSAQJeSiBA8xI6gf4RWGlZkdjAkUFGKoQDQM1wtiHGxQ/viewform?usp=dialog) summarising any outstanding issues (e.g., conflicts, lack of contribution) that need to be discussed with the supervisor **at least one hour before the meeting**.
+
+- Tip: If you have difficulties signing in to the Google Form, please try to sign in with your TUOS email account on a *Private (Incognito)* window.
+
+### Client Questions
+
+You can also use the same discussion board (Forum: Team Project - Client Questions) to communicate with the client, as you did in the autumn semester.
+
+
+## Assessment
 
 | Type | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
-| Formative | Friday 27 March, 15:00 (Week 7) | Report | 0% |
-| Summative | Friday 16 May, 15:00 (Week 11) | Report, 15-min demo recording | 100% |
+| Formative | Friday 27 March, 15:00 (Week 7) | Report, Team Operating Agreement | 0% |
+| Summative | Friday 16 May, 15:00 (Week 11) | Report, 10-min demo recording, Team Operating Agreement | 100% |
 
-The summative assessment will be based on the interim report. It is to give you feedback on your progress and to help you improve your system for the final submission. The final submission will be assessed based on the final report and the 15-min demo recording.
+The summative assessment will be based on the interim report. It is to give you feedback on your progress and to help you improve your system for the final submission. The final submission will be assessed based on the final report and the 10-min demo recording.
 
 After the summative assessment, additional changes to the user stories will be requested to mimic real-world additions/changes from clients. How you handle these changes in the remaining sprints will be part of the final assessment.
 
 Note that the formative assessment is not graded, but it is compulsory. If you do not submit the formative report, you will not be able to submit the summative report.
 
 
-## Assessment Criteria
+### Report
+
+The interim/final report should include the following information:
+- Team ID, members, and the summary of each member's major contributions.
+  - A map between each member's name and their GitLab user name, especially if you accidentally made commits under your private emails.
+- The exact command(s) needed to install/start your system and to run your tests.
+- The predefined usernames (e.g., admin1, reader1) for inspecting your system. For each account, the password must be the same as the username.
+- A list of all your user stories with their status (e.g., to-do, in-progress, or done).
+  - Use colours and highlights to distinguish different statuses.
+- What you have done in terms of testing and refactoring (one section for testing, and another section for refactoring).
+  - You should present *concrete examples* along with your testing/refactoring *summary* to demonstrate the quality of your testing/refactoring.
+  - When you include code fragments, you must use source code colouring, line numbers and a proper caption, as shown in Listing 1 below.
+- Your burndown chart, showing total number of issues and the number of issues closed each week. 
+- Overall, use figures and tables with clear captions, wherever appropriate.
+- Append your TOA signed by all team members to the report as an appendix. The quality of the TOA is not subject to assessment, but the submission is compulsory.
+
+<img width="550" alt="listing-1" src="misc/listing-example.png">
+
+
+### Demonstration (Recording)
+
+Your team will be required to submit a 10-minute demonstration recording of your system. Upload the recording to YouTube as an **unlisted video** and submit the link to the video in your report.
+
+Here are some remarks for you:
+- Be on time (no more than 10 minutes!).
+- It's for the client – make it easy to follow and focus on your team's key achievements.
+- After all, a good demonstration is a good sales pitch.
+
+
+### Team Operating Agreement
+
+Each team must have a **signed team operating agreement**, as explained in Semester 1. 
+
+- Use this [template](https://docs.google.com/document/d/1P8iJzSOMmNrrAg1PFk8EaNHczwZWpWJm/edit?usp=sharing&ouid=110276789189860516501&rtpof=true&sd=true) (TUOS login required) if your team has not created one. 
+- It is a living document and should be updated as the need arises throughout the project.
+- It will set out ground rules for working as a team and serve as an essential baseline in resolving disagreements and conflicts, if any.
+- It must be signed by all team members and submitted as an appendix to the report.
+
+
+### Assessment Criteria
 
 We will use (1) your team repository, (2) your team report, and (3) your team demo recording to assess your work. The following table details the criteria against which your team's work will be marked. The overall mark is the average of each of the marks for each aspect.
 
@@ -81,7 +146,8 @@ Regarding deployment:
 - Ensure that your `Gemfile` is up to date. If we cannot run your application on Codio due to missing gem information, this will severely negatively affect your mark.
 - (Pro-tip) Attempt a **clean install** before your final commit to check whether your system is successfully deployed and running on Codio.
 
-## Peer Assessment (BuddyCheck)
+
+### Peer Assessment (BuddyCheck)
 
 You will be using BuddyCheck to rate yourself and your team members on the following criteria:
 
@@ -94,56 +160,6 @@ Your final individual mark will be formed from a scaling factor that is applied 
 
 After the BuddyCheck, there will be an official claim period for any discrepancies in the peer assessment. No further changes will be accepted after the claim period.
 
-
-## Team Operating Agreement
-
-Each team must have a **signed team operating agreement**, as explained in Semester 1. 
-
-- Use this [template](https://docs.google.com/document/d/1P8iJzSOMmNrrAg1PFk8EaNHczwZWpWJm/edit?usp=sharing&ouid=110276789189860516501&rtpof=true&sd=true) (TUOS login required) if your team has not created one. 
-- It is a living document and should be updated as the need arises throughout the project.
-- It will set out ground rules for working as a team and serve as an essential baseline in resolving disagreements and conflicts, if any.
-- It must be signed by all team members and submitted as an appendix to the report.
-
-
-## Report
-
-The interim/final report should include the following information:
-- Team ID, members, and the summary of each member's major contributions.
-  - A map between each member's name and their GitLab user name, especially if you accidentally made commits under your private emails.
-- The exact command(s) needed to install/start your system and to run your tests.
-- The predefined usernames (e.g., admin1, reader1) for inspecting your system. For each account, the password must be the same as the username.
-- A list of all your user stories with their status (e.g., to-do, in-progress, or done).
-  - Use colours and highlights to distinguish different statuses.
-- What you have done in terms of testing and refactoring (one section for testing, and another section for refactoring).
-  - You should present *concrete examples* along with your testing/refactoring *summary* to demonstrate the quality of your testing/refactoring.
-  - When you include code fragments, you must use source code colouring, line numbers and a proper caption, as shown in Listing 1 below.
-- Your burndown chart, showing total number of issues and the number of issues closed each week. 
-- Overall, use figures and tables with clear captions, wherever appropriate.
-- Append your TOA signed by all team members to the report as an appendix. The quality of the TOA is not subject to assessment, but the submission is compulsory.
-
-<img width="550" alt="listing-1" src="misc/listing-example.png">
-
-
-## Demonstration (Recording)
-
-Your team will be required to submit a 10-minute demonstration recording of your system. Upload the recording to YouTube as an **unlisted video** and submit the link to the video in your report.
-
-Here are some remarks for you:
-- Be on time (no more than 10 minutes!).
-- It's for the client – make it easy to follow and focus on your team's key achievements.
-- After all, a good demonstration is a good sales pitch.
-
-
-## Client Questions
-
-You can also use the same discussion board (Forum: Team Project - Client Questions) to communicate with the client, as you did in the autumn semester.
-
-
-## Team Supervisors
-
-During the weekly scrum meetings, your _team supervisor_ will be present to do a 5-minute check-in with each team. Before this, the scrum master (the team leader for the week) must submit a [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSd_qwPSAQJeSiBA8xI6gf4RWGlZkdjAkUFGKoQDQM1wtiHGxQ/viewform?usp=dialog) summarising any outstanding issues (e.g., conflicts, lack of contribution) that need to be discussed with the supervisor.
-
-- Tip: If you have difficulties to sign in to the Google Form, please try to sign in with your TUOS email account on a *Private (Incognito)* window.
 
 
 ## Unfair Means and Generative AI
