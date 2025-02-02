@@ -71,7 +71,7 @@ You can also use the same discussion board (Forum: Team Project - Client Questio
 
 | Type | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
-| Formative | Friday 27 March, 15:00 (Week 7) | Report, Team Operating Agreement | 0% |
+| Formative | Friday 28 March, 15:00 (Week 7) | Report, Team Operating Agreement | 0% |
 | Summative | Friday 16 May, 15:00 (Week 11) | Report, 10-min demo recording, Team Operating Agreement | 100% |
 
 The summative assessment will be based on the interim report. It is to give you feedback on your progress and to help you improve your system for the final submission. The final submission will be assessed based on the final report and the 10-min demo recording.
