@@ -15,7 +15,15 @@ Jump to:
 
 ## 2. Getting Started
 
-Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./getting-started.md) page.
+All of the materials for the module this semester will appear in this repository rather than being uploaded to Blackboard. 
+
+You can download the content directly from this page, or preferably you can clone it to your device using the following command in your terminal:
+
+```console
+git clone https://github.com/UoS-COM1001/com1001-2024-25-spr.git
+```
+
+You need to get Codio setup so that you can develop your team project and run the code examples in a further repository the [COM1001 examples repository](https://github.com/UoS-COM1001/com1001-examples). To do this, follow the instructions on the [Getting Started](./getting-started.md) page.
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ itself.
 
