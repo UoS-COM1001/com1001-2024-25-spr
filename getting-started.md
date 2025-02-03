@@ -1,7 +1,7 @@
 # Getting Started
 
 **NOTE:** you can watch me go through the steps of this README in a video on
-[Blackboard]().
+[Blackboard](https://vle.shef.ac.uk/ultra/courses/_116942_1/outline/lti/launchFrame?toolHref=https:~2F~2Fvle.shef.ac.uk~2Fwebapps~2Fblackboard~2Fexecute~2Fblti~2FlaunchLink%3Fcourse_id%3D_116942_1%26content_id%3D_8176156_1%26from_ultra%3Dtrue&toolTitle=Getting%20Started).
 
 ### Contents of this README file
 
