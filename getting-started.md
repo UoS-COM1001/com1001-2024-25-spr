@@ -9,7 +9,7 @@
 2. [Hello, World!](#3-hello-world)
 3. [Cloning the Examples Repository on
    Codio](#4-cloning-the-examples-repository-on-codio)
-4. [Cloning your Team's Repository](#5-cloning-your-teams-repository)
+4. [Cloning Your Team's Repository](#5-cloning-your-teams-repository)
 5. [Using VSCode](#6-using-vscode)
 
 ## 1. Logging into Codio
