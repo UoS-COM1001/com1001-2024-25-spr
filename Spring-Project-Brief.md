@@ -3,18 +3,20 @@
 In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester. The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
 
 Jump to:
-- [Mini-Scrum Framework](#1-mini-scrum-framework)
-  - [Weekly Schedule](#1-1-weekly-schedule)
+- [1. Mini-Scrum Framework](#1-mini-scrum-framework)
+  - [Weekly Schedule](#weekly-schedule)
   - [Team Supervisors](#team-supervisors)
   - [Client Questions](#client-questions)
-- [Assessment](#2-assessment)
+- [2. Assessment](#2-assessment)
   - [Report](#report)
   - [Demonstration](#demonstration-recording)
   - [Team Operating Agreement](#team-operating-agreement)
   - [Assessment Criteria](#assessment-criteria)
   - [Peer Assessment](#peer-assessment-buddycheck)
-- [Unfair Means and Generative AI](#3-unfair-means-and-generative-ai)
-- [Futher Questions](#4-further-questions)
+- [3. Unfair Means and Generative AI](#3-unfair-means-and-generative-ai)
+- [4. Futher Questions](#4-further-questions)
+
+
 
 ## 1. Mini-Scrum Framework
 
