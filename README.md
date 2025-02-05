@@ -44,7 +44,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 |5     | **Development Issues**<ul><li>Debugging</li><li>Refactoring</li></ul> | <ul><li>Coding Standards and Refactoring</li><li>Debugging Challenge</li></ul> | Sprint 2 | |
 |6     | *No lectures* | Drop-In Session | Sprint 3 | |
 |7     | *No lectures* | Drop-In Session | Sprint 3 | Formative <br /> Friday (28 March) 3pm |
-|8     | *No lectures* | Drop-In Session | Sprint 4 | |
+|8     | *No lectures* | TBD | Sprint 4 | |
 |Easter|
 |9     | *No lectures* | Drop-In Session | Sprint 4 | |
 |10    | *No lectures* | Drop-In Session | Sprint 5 | |
