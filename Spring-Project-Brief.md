@@ -3,20 +3,20 @@
 In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester. The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
 
 Jump to:
-- [Mini-Scrum Framework](#mini-scrum-framework)
-  - [Weekly Schedule](#weekly-schedule)
+- [Mini-Scrum Framework](#1-mini-scrum-framework)
+  - [Weekly Schedule](#1-1-weekly-schedule)
   - [Team Supervisors](#team-supervisors)
   - [Client Questions](#client-questions)
-- [Assessment](#assessment)
+- [Assessment](#2-assessment)
   - [Report](#report)
   - [Demonstration](#demonstration-recording)
   - [Team Operating Agreement](#team-operating-agreement)
   - [Assessment Criteria](#assessment-criteria)
   - [Peer Assessment](#peer-assessment-buddycheck)
-- [Unfair Means and Generative AI](#unfair-means-and-generative-ai)
-- [Futher Questions](#further-questions)
+- [Unfair Means and Generative AI](#3-unfair-means-and-generative-ai)
+- [Futher Questions](#4-further-questions)
 
-## Mini-Scrum Framework
+## 1. Mini-Scrum Framework
 
 The key principles of the mini-scrum are as follows:
 - Incremental development: Build your system in small, manageable increments over multiple iterations (i.e., sprints);
@@ -67,7 +67,7 @@ To make this efficient, the scrum master (the team leader for the week) must sub
 You can also use the same discussion board (Forum: Team Project - Client Questions) to communicate with the client, as you did in the autumn semester.
 
 
-## Assessment
+## 2. Assessment
 
 | Type | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ After the BuddyCheck, there will be an official claim period for any discrepanci
 
 
 
-## Unfair Means and Generative AI
+## 3. Unfair Means and Generative AI
 
 It is essential to bear in mind the departmental rules on unfair means. Activities such as **plagiarism** or **collusion** will be treated as serious academic offences. This could lead to the award of a grade of zero for your submission.
 
@@ -174,7 +174,7 @@ We acknowledge that **Generative AI**, such as Google Geminii and OpenAI ChatGPT
 
 See [Critical GenAI Literacy](https://libraryguides.sheffield.ac.uk/genai) for more information about how to best use GenAI in your learning. 
 
-## Further Questions
+## 4. Further Questions
 
 If you have any questions, follow the steps below:
 1. Check this brief again carefully to see if the answer is here.
