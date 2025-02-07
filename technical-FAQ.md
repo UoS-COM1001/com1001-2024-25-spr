@@ -53,9 +53,7 @@ Naturally, when asking a question, help us to help you by including as much rele
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
-It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Setting Up Codio Instructions](./setting-up-codio.md).
-
-Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
+It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started.md).
 
 ### When I try to run one of the examples from the lectures, it crashes with an error.
 
@@ -100,7 +98,7 @@ This is a tedious thing to have to keep doing during development! So I recommend
 To do this prefix the `sinatra` command with `rerun`, for example as follows:
 
 ```
-rerun sinatra hello_world
+rerun sinatra
 ```
 
 The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
@@ -124,7 +122,7 @@ You can also use the `reset_gems` command to reset the gems installed on your bo
 
 Make sure that your project has all the gems it needs by keeping your `Gemfile` up to date. This is the key to avoiding these kinds of problems in the first place.
 
-### I'm getting an error message `cannot load such file -- sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
+### I'm getting an error message `cannot load such file - sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
 
 Ensure that you have the `sqlite3` gem installed as well as the `sequel` gem.
 
