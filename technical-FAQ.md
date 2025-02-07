@@ -122,7 +122,7 @@ You can also use the `reset_gems` command to reset the gems installed on your bo
 
 Make sure that your project has all the gems it needs by keeping your `Gemfile` up to date. This is the key to avoiding these kinds of problems in the first place.
 
-### I'm getting an error message `cannot load such file -- sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
+### I'm getting an error message `cannot load such file &mdash; sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
 
 Ensure that you have the `sqlite3` gem installed as well as the `sequel` gem.
 
