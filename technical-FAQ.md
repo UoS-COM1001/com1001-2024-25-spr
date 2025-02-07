@@ -98,7 +98,7 @@ This is a tedious thing to have to keep doing during development! So I recommend
 To do this prefix the `sinatra` command with `rerun`, for example as follows:
 
 ```
-rerun sinatra hello_world
+rerun sinatra
 ```
 
 The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
