@@ -15,7 +15,7 @@ Jump to:
 
 ## 2. Getting Started
 
-All of the materials for the module this semester will appear in this repository rather than being uploaded to Blackboard. 
+All of the materials for the module this semester will appear in this repository rather than being uploaded to Blackboard.
 
 You can download the content directly from this page, or preferably you can clone it to your device using the following command in your terminal:
 
@@ -35,7 +35,7 @@ Materials for the module can all be found in this repository, which consists of 
 
 Lecture and practical content for this module is front-loaded in weeks 1&ndash;5 so that you have all the knowledge and expertise that you need to complete development and testing of the team project in the remainder of the semester.
 
-| Week | Lecture Content | Practical Session | [Scrum Meeting](#scrum-meetings) | [Deadline](Spring-Project-Brief.md#assessment) |
+| Week | [Lecture Content](#lectures) | [Practical Session](#practical-sessions) | [Scrum Meeting](#scrum-meetings) | [Deadline](Spring-Project-Brief.md#assessment) |
 |-:|-|-|-|-|
 |1     | **Foundations**<ul><li>Web servers and HTTP</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| <ul><li>Starting to Develop Your Team Web Application</li><li>Coding Challenge</li></ul> | Team Operating Agreement | |
 |2     | **Forms & Sessions**<ul><li>Forms &mdash; the basics</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | <ul><li>Queries and Forms</li><li>Coding Challenge</li></ul> | Sprint 1 | |
