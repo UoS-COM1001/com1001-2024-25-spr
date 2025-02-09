@@ -73,12 +73,14 @@ You can also use the same discussion board (Forum: Team Project - Client Questio
 
 | Type | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
-| Formative | Friday 28 March, 15:00 (Week 7) | Report, Team Operating Agreement | 0% |
-| Summative | Friday 16 May, 15:00 (Week 11) | Report, 10-min demo recording, Team Operating Agreement | 100% |
+| Formative | Friday 28 March, 15:00 (Week 7) | Report, Team Operating Agreement,  | 0% |
+| Summative | Friday 16 May, 15:00 (Week 11) | Report, Team Operating Agreement, 10-min demo recording | 100% |
 
-The summative assessment will be based on the interim report. It is to give you feedback on your progress and to help you improve your system for the final submission. The final submission will be assessed based on the final report and the 10-min demo recording.
+The formative assessment will be based on the interim report. It is to give you feedback on your progress and to help you improve your system for the final submission. The final submission will be assessed based on the final report and the 10-minute demo recording.
 
-After the summative assessment, additional changes to the user stories will be requested to mimic real-world additions/changes from clients. How you handle these changes in the remaining sprints will be part of the final assessment.
+After the formative assessment, additional changes to the user stories will be requested to mimic real-world additions/changes from clients. How you handle these changes in the remaining sprints will be part of the final assessment.
+
+While the **GitLab repository** itself does not need to be submitted, all activities within the repository—including *commit history*, *issues*, and *other contributions*—will be reviewed and assessed.
 
 Note that the formative assessment is not graded, but it is compulsory. If you do not submit the formative report, you will not be able to submit the summative report.
 
