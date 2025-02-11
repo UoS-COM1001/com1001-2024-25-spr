@@ -20,7 +20,7 @@ your team to them.***
 
 Everyone should have done this already, but maybe certain individuals didn't get
 the memo and/or experienced problems. If a team member is yet to set up their
-Codio according to the [Getting Started](../getting-started) instructions, make
+Codio according to the [Getting Started](../getting-started.md) instructions, make
 sure they have done now. 
 
 ## Task 3. Setting up Slack for Your Team
