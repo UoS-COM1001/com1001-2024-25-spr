@@ -80,7 +80,7 @@ The formative assessment will be based on the interim report. It is to give you 
 
 After the formative assessment, additional changes to the user stories will be requested to mimic real-world additions/changes from clients. How you handle these changes in the remaining sprints will be part of the final assessment.
 
-While the **GitLab repository** itself does not need to be submitted, all activities within the repository—including *commit history*, *issues*, and *other contributions*—will be reviewed and assessed.
+While the **GitLab repository** (https://git.shefcompsci.org.uk) itself does not need to be submitted, all activities within the repository—including *commit history*, *issues*, and *other contributions*—will be reviewed and assessed.
 
 Note that the formative assessment is not graded, but it is compulsory. If you do not submit the formative report, you will not be able to submit the summative report.
 
