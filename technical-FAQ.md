@@ -152,6 +152,10 @@ Other possible reasons:
 
 ## 4. Using Codio
 
+### I've heard it's possible to use VSCode on Codio. Is that true?
+
+Yes! See the [final section in the Getting Started instructions](./setting-up-codio.md#5-using-vscode).
+
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 
 Codio provides a standardised environment to students that removes many issues related to incompatibilities between different operating systems and setups.
@@ -172,11 +176,7 @@ are unable to provide specific help with these instructions and your device
 
 **So this is all entirely optional and done at your own risk!**
 
-#### What You Will Need Installed
-
-##### Software
-
-You will need the following installed on your machine:
+You will need the following software installed on your machine:
 
 * Git, to work at the terminal. This is so you can push and pull with your
 team's repository.
@@ -190,8 +190,6 @@ instructions there.
   https://www.ruby-lang.org/en/downloads/ and download. Tip: investigate `rbenv`
   (https://rbenv.org/) if you already have a version of Ruby installed on your
   machines.
-
-##### Gems
 
 You will need to have the latest versions of the following gems installed and
 operational:
@@ -211,8 +209,6 @@ operational:
 * `simplecov`
 * `sinatra`
 * `sqlite3`
-
-#### Running a Sinatra application
 
 The `sinatra` command only works on Codio. To start a Sinatra app on your own
 machine you will need to do it the traditional way, which is to change into the
@@ -235,8 +231,3 @@ the output, it should say something like the following, or similar:
 
 You need to copy this base URL into your browser's URL bar and append the
 resource identifier for the page you want to visit.
-
-### I've heard it's possible to use VSCode on Codio. Is that true?
-
-Yes! See the [final section in the Getting Started instructions](./setting-up-codio.md#5-using-vscode).
-
