@@ -189,7 +189,7 @@ instructions there.
 * Ruby, specifically version 3.2.2 (or 3.2.x at the very least.) Go to
   https://www.ruby-lang.org/en/downloads/ and download. Tip: investigate `rbenv`
   (https://rbenv.org/) if you already have a version of Ruby installed on your
-  machines.
+  machine.
 
 You will need to have the latest versions of the following gems installed and
 operational:
