@@ -1,7 +1,7 @@
 # Week 1 Practical: Starting to Develop Your Team Web Application
 
 You should already have your Codio setup by this point, if not, review the
-instructions on the [Setting up Codio](../setting-up-codio.md) page.
+instructions on the [Getting Started](../getting-started.md) page.
 
 Read the rest of this page first, then start to tackle each of the tasks. Don't
 leave before doing task 6 &mdash; deciding when and where you're going to meet
