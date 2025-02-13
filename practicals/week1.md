@@ -38,7 +38,7 @@ Take some of your key stories and discuss:
 
 ### 3. Ensure your Sinatra application has been created
 
-This was part of the [Setting up Codio](../setting-up-codio.md) instructions.
+This was part of the [Getting Started](../getting-started.md) instructions.
 Ensure everyone in your team can clone the team repository and that you have run
 `create_app` in it, to create the basic files needed for your Sinatra
 application.
