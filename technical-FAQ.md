@@ -221,7 +221,7 @@ ruby app.rb
 ```
 
 This will start the web server for your application. The base URL is provided in
-the output, it should say something like the following, or similar:
+the output, which should include a line like the following, or similar:
 
 ```
 ...
