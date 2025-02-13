@@ -158,9 +158,83 @@ Codio provides a standardised environment to students that removes many issues r
 
 This is to your benefit – firstly, you won't have to debug these kinds of issues across the various machine setups your team members may have, and secondly, because Codio makes it easy for *us to help you* if you encounter problems with your code.
 
+Furthermore, since the team project will be marked using Codio, everything needs to work on Codio, because the markers will not be debugging your code to get it to run. This means that if you use your own machine, you will need to get the same versions of Ruby, SQLite, and all the gems that you're using, ensuring all behaviours are identical across different machines.
+
 It's not impossible though to develop everything on your own machine. However, this means you installing Ruby and getting everything working yourself. We are unable to provide support for students' individual machines, since fixing individual machine setups is very time consuming and our priority is helping with programming questions and issues.
 
-Furthermore, since the team project will be marked using Codio, everything needs to work on Codio, because the markers will not be debugging your code to get it to run. This means that if you use your own machine, you will need to get the same versions of Ruby, SQLite, and all the gems that you're using, ensuring all behaviours are identical across different machines.
+Yet, we also appreciate that Codio is not everyone's cup of tea. So here is
+a guide to getting everything running on your own machine.
+
+I should warn you that you need to (a) be competent and confident with
+administering software and its dependencies on your own machine, and that (b) we
+are unable to provide specific help with these instructions and your device
+&mdash; for all the reasons we provide Codio in the first place.
+
+**So this is all entirely optional and done at your own risk!**
+
+#### What You Will Need Installed
+
+##### Software
+
+You will need the following installed on your machine:
+
+* Git, to work at the terminal. This is so you can push and pull with your
+team's repository.
+
+* SQLite. This is sometimes already installed on some operating systems, e.g.
+Mac OS (type `sqlite3` at the command line and see if anything happens.) If it's
+not installed, go to https://www.sqlite.org/ to download it and follow the
+instructions there.
+
+* Ruby, specifically version 3.2.2 (or 3.2.x at the very least.) Go to
+  https://www.ruby-lang.org/en/downloads/ and download. Tip: investigate `rbenv`
+  (https://rbenv.org/) if you already have a version of Ruby installed on your
+  machines.
+
+##### Gems
+
+You will need to have the latest versions of the following gems installed and
+operational:
+
+* `capybara`
+* `bundler`
+* `puma`
+* `rack-test`
+* `rackup`
+* `require_all`
+* `rerun`
+* `rspec`
+* `rubocop`
+* `rubocop-rspec`
+* `rubocop-sequel`
+* `sequel`
+* `simplecov`
+* `sinatra`
+* `sqlite3`
+
+#### Running a Sinatra application
+
+The `sinatra` command only works on Codio. To start a Sinatra app on your own
+machine you will need to do it the traditional way, which is to change into the
+root directory of the app in your terminal and execute the command `ruby
+app.rb`, for example:
+
+```console
+cd my_app
+ruby app.rb
+```
+
+This will start the web server for your application. The base URL is provided in
+the output, it should say something like the following, or similar:
+
+```
+...
+* Listening on http://127.0.0.1:4567
+...
+```
+
+You need to copy this base URL into your browser's URL bar and append the
+resource identifier for the page you want to visit.
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
