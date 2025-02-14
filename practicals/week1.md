@@ -1,7 +1,7 @@
 # Week 1 Practical: Starting to Develop Your Team Web Application
 
 You should already have your Codio setup by this point, if not, review the
-instructions on the [Setting up Codio](../setting-up-codio.md) page.
+instructions on the [Getting Started](../getting-started.md) page.
 
 Read the rest of this page first, then start to tackle each of the tasks. Don't
 leave before doing task 6 &mdash; deciding when and where you're going to meet
@@ -38,7 +38,7 @@ Take some of your key stories and discuss:
 
 ### 3. Ensure your Sinatra application has been created
 
-This was part of the [Setting up Codio](../setting-up-codio.md) instructions.
+This was part of the [Getting Started](../getting-started.md) instructions.
 Ensure everyone in your team can clone the team repository and that you have run
 `create_app` in it, to create the basic files needed for your Sinatra
 application.
