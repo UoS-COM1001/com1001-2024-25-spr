@@ -191,6 +191,8 @@ instructions there.
   (https://rbenv.org/) if you already have a version of Ruby installed on your
   machine.
 
+* If you want to push to gitlab while not connected to eduroam, you will need to be connected to the University VPN. 
+
 You will need to have the latest versions of the following gems installed and
 operational:
 
