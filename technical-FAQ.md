@@ -132,7 +132,7 @@ Of course, you can add/use additional gems above those mentioned in lectures. Ju
 
 ### When testing, my application seems to behave differently compared to when it's being used for real.
 
-This is often to do with differences between the "test" database (`db-test.sqlite3`) and the regular development/production database (`db.sqlite3`). If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested. Also check that the two databases have the same schemas.
+This is often to do with differences between the "test" database (`db_test.sqlite3`) and the regular development/production database (`db.sqlite3`). If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested. Also check that the two databases have the same schemas.
 
 ## 3. Problems with Git
 
