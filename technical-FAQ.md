@@ -182,7 +182,7 @@ You will need the following software installed on your machine:
 team's repository.
 
 * SQLite. This is sometimes already installed on some operating systems, e.g.
-Mac OS (type `sqlite3` at the command line and see if anything happens.) If it's
+Mac OS (type `sqlite3` at the command line and see if anything happens). If it's
 not installed, go to https://www.sqlite.org/ to download it and follow the
 instructions there.
 
