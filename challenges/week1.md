@@ -16,7 +16,7 @@
    view file?
 
 2. Change your app so that now there is just one generic route for a profile
-   page that takes a parameter --- the person whose profile page it is. (For
+   page that takes a parameter &mdash; the person whose profile page it is. (For
    example `/profile?person=donghwan`). The route sets the name and file for
    the profile picture and passes this to the view.
 
