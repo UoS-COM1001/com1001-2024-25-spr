@@ -64,7 +64,7 @@ In weeks 1&ndash;5, the practical sessions consist of team exercises, coding cha
 
 Where you go and where you sit depends on which team you're in:
 * **Teams 1&ndash;23** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/cr3-practicals.pdf).
-* **Teams 24&ndash;47** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
+* **Teams 24&ndash;47** need to go to **Computer Room 5** on the ground floor, and follow the [seating plan for CR5](misc/cr5-practicals.pdf).
 
 #### Weeks 6&ndash;11
 
