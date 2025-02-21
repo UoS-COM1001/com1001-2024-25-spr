@@ -5,7 +5,7 @@
    teaching COM1001, so `/phil`, `/donghwan` etc.
 
    Make a view for each route that has our name and profile picture in (you can
-   download our profile pictures from Blackboard, or the web).
+   take our profile pictures from the GitHub repository, or elsewhere on the web).
 
    b) Add a default route `/` to the app, with links to each profile page. When
    the app is launched, clicking this links will take the user to each profile page.
@@ -17,7 +17,7 @@
 
 2. Change your app so that now there is just one generic route for a profile
    page that takes a parameter --- the person whose profile page it is. (For
-   example `/profile?person="donghwan"`). The route sets the name and file for
+   example `/profile?person=donghwan`). The route sets the name and file for
    the profile picture and passes this to the view.
 
 
