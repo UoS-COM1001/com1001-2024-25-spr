@@ -52,7 +52,7 @@ Lecture and practical content for this module is front-loaded in weeks 1&ndash;5
 
 ### Lectures
 
-Lectures will be held on **Tuesday 9&ndash;11am and Thursdays 3&ndash;5pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans), lecture theatre 1** in weeks 1&ndash;5. There will be a break during 2 hour lectures, and also a (non-assessed) team quiz. There will be a prize in week 5 for the team that performs best overall in the quizzes.
+Lectures will be held on **Tuesday 9&ndash;11am and Thursdays 4&ndash;5pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans), lecture theatre 1** in weeks 1&ndash;5. There will be a break during 2 hour lectures, and also a (non-assessed) team quiz. There will be a prize in week 5 for the team that performs best overall in the quizzes.
 
 ### Practical Sessions
 
