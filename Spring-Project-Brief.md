@@ -1,6 +1,6 @@
 # **Spring Semester Team Software Project**
 
-In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester. The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
+In the spring semester, each team will implement a web system according to the user stories you collected in the autumn semester (see the [sample solution](misc/user-stories-sample-solution.md)). The implementation will follow a mini-scrum framework, a simplified version of an agile software development process. Read this project brief carefully and make sure you understand the details. 
 
 Jump to:
 - [1. Mini-Scrum Framework](#1-mini-scrum-framework)
@@ -130,7 +130,7 @@ We will use (1) your team repository, (2) your team report, and (3) your team de
 
 | **Aspect** | **Indicative Criteria** |
 | --- | --- |
-| Implementation | The completeness and quality of your system. The extent to which it implements the client's requirements, how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
+| Implementation | The completeness and quality of your system. The extent to which it implements the client's requirements (based on the [user stories sample solution](misc/user-stories-sample-solution.md)), how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
 | Code Quality | The quality of your code, including good coding principles, such as useful variable names, code comments, etc. The basic organisation of your code into units, and its overall structure. |
 | Testing | The quality of your tests, including unit tests, integration tests, and system tests. The extent to which you have justified the level of coverage that you have obtained. |
 | Refactoring | The quality of your refactoring. The extent to which your team has clear evidence of refactoring efforts written in the report. |
