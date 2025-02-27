@@ -1,4 +1,4 @@
-# Week 1 &mdash; Coding Challenges
+# Week 1 &mdash; Coding Challenge
 
 1. a) Create an app with multiple routes, which could be spread across multiple
    controller files (up to you). Each should be a profile page for an academic
