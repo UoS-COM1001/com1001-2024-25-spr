@@ -1,4 +1,4 @@
-# Week 3 &mdash; Coding Challenges
+# Week 3 &mdash; Coding Challenge
 
 1. Change the `football_players` example demonstrated in lectures in week 3 to search for clubs so that the query works in a case-insensitive manner (currently it is case sensitive).
 
