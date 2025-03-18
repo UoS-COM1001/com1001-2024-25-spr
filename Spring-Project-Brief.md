@@ -104,7 +104,7 @@ The interim/final report should include the following information:
 <img width="550" alt="listing-1" src="misc/listing-example.png">
 
 
-### Demonstration (Recording)
+### Demonstration (Recording, Final Submission Only)
 
 Your team will be required to submit a 10-minute demonstration recording of your system. Upload the recording to YouTube as an **unlisted video** and submit the link to the video in your report.
 
