@@ -70,7 +70,7 @@ Where you go and where you sit depends on which team you're in:
 
 In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. 
 
-Drop-in sessions will be held on **Tuesdays, 10&ndash;11am in Pemberton Lecture Theatre A of Regent Court**.
+Drop-in sessions will be held on **Tuesdays, 10&ndash;11am in [Regent Court, Pemberton Lecture Theatre A](https://sites.google.com/sheffield.ac.uk/pooledroomdirectory/teaching-spaces/regent-court/john-pemberton-lt-a)**.
 
 Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams.
 
