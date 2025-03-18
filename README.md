@@ -56,9 +56,9 @@ Lectures will be held on **Tuesday 9&ndash;11am and Thursdays 4&ndash;5pm in the
 
 ### Practical Sessions
 
-Practical sessions will be held on **Thursdays 5&ndash;6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**.
-
 #### Weeks 1&ndash;5
+
+Practical sessions will be held on **Thursdays 5&ndash;6pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**.
 
 In weeks 1&ndash;5, the practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the laptop loan facility.
 
@@ -68,7 +68,11 @@ Where you go and where you sit depends on which team you're in:
 
 #### Weeks 6&ndash;11
 
-In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams.
+In weeks 6&ndash;11, the practical session will take the form of an (optional) drop-in session. 
+
+Drop-in sessions will be held on **Tuesdays, 10&ndash;11am in Pemberton Lecture Theatre A of Regent Court**.
+
+Here, you can talk to us about any technical problems you're experiencing with your code, or ask any other question you like (e.g., re-explaining lecture content) and we'll endeavour to help. This will take place in **Computer Room 3**. The whole room will be reserved so you can use the space to work simultaneously in your teams.
 
 ### Scrum Meetings
 
